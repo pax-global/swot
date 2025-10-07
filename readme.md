@@ -1,6 +1,6 @@
 # 🎓 Educational Email Domain Validator
 
-A comprehensive JSON database of **24k+** educational institution domains for validating academic email addresses worldwide.
+A comprehensive JSON database of **25k+** educational institution domains for validating academic email addresses worldwide.
 
 ## 📊 Overview
 
@@ -14,26 +14,25 @@ This repository contains a curated list of educational email domains from univer
 
 | Metric | Count |
 |--------|-------|
-| 🏫 **Total Domains** | **24,612** |
-| 🚫 **Flagged/Abused** | **99** |
-| 👥 **Group Domains** | **170** |
+| 🏫 **Total Domains** | **25,131** |
+| 🚫 **Flagged/Abused** | **108** |
+| 👥 **Group Domains** | **174** |
 | 🇷🇴 **Romania (.ro)** | **206** |
 
 ### 🌍 Top Educational TLDs
 
-| TLD | Domains | Region |
-|-----|---------|--------|
-| 🇺🇸 `.edu` | **2,579** | United States |
-| 🌐 `.org` | **1,544** | Global Organizations |
-| 🇩🇪 `.de` | **1,337** | Germany |
-| 🌐 `.com` | **984** | Commercial/Global |
-| 🇧🇷 `.br` | **909** | Brazil |
-| 🇬🇧 `.uk` | **907** | United Kingdom |
-| 🇷🇺 `.ru` | **691** | Russia |
-| 🇫🇷 `.fr` | **662** | France |
-| 🇵🇱 `.pl` | **629** | Poland |
-| 🇮🇩 `.id` | **628** | Indonesia |
-
+| TLD | Domains |
+|-----|---------|
+| `.edu` | **2,617** |
+| `.org` | **1,558** |
+| `.de` | **1,357** |
+| `.com` | **1,008** |
+| `.uk` | **924** |
+| `.br` | **918** |
+| `.ru` | **691** |
+| `.in` | **687** |
+| `.fr` | **671** |
+| `.id` | **641** |
 ## 📋 Domain Structure
 
 Each domain entry contains detailed information:
@@ -67,7 +66,10 @@ Each domain entry contains detailed information:
 
 ## 🔄 Updates
 
-This repository is **automatically updated on the 1st day of each month**
+This repository is automatically updated on the 1st day of each month at 7:00 AM Romanian time (EET/EEST).
+
+
+
 
 ## 📅 **Source**: [JetBrains/swot](https://github.com/JetBrains/swot) repository
 
