@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0",
-    "generated_at": "2025-10-07T17:29:08.886779",
-    "total_domains": 25131,
-    "abused_domains": 108,
+    "generated_at": "2025-11-04T10:18:19.623098",
+    "total_domains": 25369,
+    "abused_domains": 115,
     "source": "JetBrains/swot repository",
     "description": "Educational email domain validator for academic verification",
     "repository": "https://github.com/JetBrains/swot",
@@ -129,6 +129,13 @@
         "California School of Professional Psychology - Los Angels",
         "California School of Professional Psychology - San Diego"
       ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "berkeleycitycollege.edu": {
+      "name": "Berkeley City College",
+      "additional_names": [],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -546,6 +553,13 @@
       "verified": true,
       "is_abused": false
     },
+    "indycc.edu": {
+      "name": "Independence Community College",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "mcdaniel.edu": {
       "name": "McDaniel College",
       "additional_names": [],
@@ -737,6 +751,13 @@
     },
     "tarleton.edu": {
       "name": "Tarleton State University",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "cvcc.edu": {
+      "name": "Catawba Valley Community College",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -1437,6 +1458,13 @@
       "verified": true,
       "is_abused": false
     },
+    "mccnh.edu": {
+      "name": "Manchester Community College",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "su.edu": {
       "name": "Shenandoah University",
       "additional_names": [],
@@ -1453,6 +1481,13 @@
     },
     "indianhills.edu": {
       "name": "Indian Hills Community College",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "southmountaincc.edu": {
+      "name": "South Mountain Community College",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -2588,6 +2623,13 @@
       "verified": true,
       "is_abused": false
     },
+    "dit.edu": {
+      "name": "Dehradun Institute Of Technology",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "sju.edu": {
       "name": "St. Joseph's University",
       "additional_names": [],
@@ -2916,6 +2958,13 @@
       "verified": true,
       "is_abused": true
     },
+    "wilkescc.edu": {
+      "name": "Wilkes Community College",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "msmary.edu": {
       "name": "Mount St. Mary's College Maryland",
       "additional_names": [],
@@ -3070,6 +3119,13 @@
     },
     "capella.edu": {
       "name": "Capella University",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "collegeofsanmateo.edu": {
+      "name": "College Of San Mateo",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -5136,6 +5192,13 @@
       "verified": true,
       "is_abused": false
     },
+    "patrickhenry.edu": {
+      "name": "Patrick Henry Community College",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "ramapo.edu": {
       "name": "Ramapo College of New Jersey",
       "additional_names": [],
@@ -5482,6 +5545,13 @@
       "verified": true,
       "is_abused": false
     },
+    "virginiawestern.edu": {
+      "name": "Virginia Western Community College",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "northern.edu": {
       "name": "Northern State University",
       "additional_names": [],
@@ -5693,6 +5763,13 @@
       "additional_names": [
         "UNIACC University, Santiago of Chile"
       ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "lavc.edu": {
+      "name": "Los Angeles Valley College",
+      "additional_names": [],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -7955,6 +8032,13 @@
       "verified": true,
       "is_abused": false
     },
+    "lr.edu": {
+      "name": "Lenoir-Rhyne University",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "oru.edu": {
       "name": "Oral Roberts University",
       "additional_names": [],
@@ -8898,6 +8982,13 @@
       "verified": true,
       "is_abused": false
     },
+    "venturacollege.edu": {
+      "name": "Ventura College",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "davistech.edu": {
       "name": "Davis Technical College",
       "additional_names": [
@@ -9691,10 +9782,8 @@
       "is_abused": false
     },
     "rit.edu": {
-      "name": "Rochester Institute of Technology, Dubai",
-      "additional_names": [
-        "Rochester Institute of Technology"
-      ],
+      "name": "Rochester Institute of Technology",
+      "additional_names": [],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -10582,6 +10671,13 @@
       "verified": true,
       "is_abused": false
     },
+    "nunez.edu": {
+      "name": "Nunez Community College",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "wsutech.edu": {
       "name": "WSU Tech",
       "additional_names": [
@@ -10723,6 +10819,13 @@
     },
     "bw.edu": {
       "name": "Baldwin Wallace University",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "albemarle.edu": {
+      "name": "College Of The Albemarle",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -10870,6 +10973,13 @@
     },
     "ouhsc.edu": {
       "name": "University of Oklahoma Health Sciences Center",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "sunysccc.edu": {
+      "name": "Schenectady County Community College",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -11036,6 +11146,13 @@
       "verified": true,
       "is_abused": false
     },
+    "urbancollege.edu": {
+      "name": "Urban College Of Boston",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "bethlehem.edu": {
       "name": "Bethlehem University",
       "additional_names": [],
@@ -11098,6 +11215,13 @@
     },
     "wvu.edu": {
       "name": "West Virginia University",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "cccneb.edu": {
+      "name": "Central Community College",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -12111,6 +12235,13 @@
       "verified": true,
       "is_abused": false
     },
+    "daltonstate.edu": {
+      "name": "Dalton State college",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "isi.edu": {
       "name": "Information Sciences Institute, University of Southern California",
       "additional_names": [],
@@ -12320,6 +12451,13 @@
       "verified": true,
       "is_abused": false
     },
+    "mainecc.edu": {
+      "name": "Southern Maine Community College",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "pnwu.edu": {
       "name": "Pacific Northwest University of Health Sciences",
       "additional_names": [],
@@ -12445,6 +12583,13 @@
     },
     "wosc.edu": {
       "name": "Western Oklahoma State College",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "kaskaskia.edu": {
+      "name": "Kaskaskia College",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -14234,6 +14379,15 @@
       "name": "University Of The District Of Columbia",
       "additional_names": [
         "UDC"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "roytec.edu": {
+      "name": "UWI School of Business and Applied Studies Limited (UWI-ROYTEC)",
+      "additional_names": [
+        "UWI-ROYTEC"
       ],
       "is_group": false,
       "verified": true,
@@ -16676,6 +16830,13 @@
       "verified": true,
       "is_abused": false
     },
+    "polk.edu": {
+      "name": "Polk State College",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "skidmore.edu": {
       "name": "Skidmore College",
       "additional_names": [],
@@ -18558,6 +18719,13 @@
       "verified": true,
       "is_abused": false
     },
+    "my.chamberlain.edu": {
+      "name": "Chamberlain University",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": true
+    },
     "cs.toronto.edu": {
       "name": "University of Toronto (Computer Science Department)",
       "additional_names": [],
@@ -19682,6 +19850,13 @@
     },
     "institutvidreres.cat": {
       "name": "Institut Vidreres",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "iesnx.cat": {
+      "name": "Institut Narcís Xifra i Masmitjà",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -21634,13 +21809,6 @@
       "verified": true,
       "is_abused": false
     },
-    "kab.ac.ug": {
-      "name": "Kabale University",
-      "additional_names": [],
-      "is_group": false,
-      "verified": true,
-      "is_abused": false
-    },
     "gu.ac.ug": {
       "name": "Gulu University",
       "additional_names": [],
@@ -22248,13 +22416,6 @@
       "verified": true,
       "is_abused": false
     },
-    "muet.edu.pk": {
-      "name": "Mehran University of Engineering &amp; Technology",
-      "additional_names": [],
-      "is_group": false,
-      "verified": true,
-      "is_abused": false
-    },
     "smiu.edu.pk": {
       "name": "Sindh Madrassatul Islam University",
       "additional_names": [],
@@ -22591,6 +22752,15 @@
     "suit.edu.pk": {
       "name": "Sarhad University of Science &amp; Information Technology, Peshawar",
       "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "isc.edu.pk": {
+      "name": "Islamic Science College",
+      "additional_names": [
+        "Islamic Science College"
+      ],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -23474,6 +23644,13 @@
       "verified": true,
       "is_abused": false
     },
+    "nit.edu.pk": {
+      "name": "National Institute of Technology, Pakistan",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "cuiwah.edu.pk": {
       "name": "COMSATS University Islamabad, Wah Cantt",
       "additional_names": [],
@@ -23504,6 +23681,13 @@
       "additional_names": [
         "Comsats University Islamabad"
       ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "students.cuisahiwal.edu.pk": {
+      "name": "COMSATS University Islamabad, Sahiwal Campus",
+      "additional_names": [],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -25789,6 +25973,13 @@
       "verified": true,
       "is_abused": false
     },
+    "amkl.edu.pl": {
+      "name": "Akademia Muzyczna im. K. Lipińskiego we Wrocławiu",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "uw.edu.pl": {
       "name": "University of Warsaw",
       "additional_names": [],
@@ -26194,6 +26385,13 @@
       "additional_names": [
         "Jagiellonian University in Krakow"
       ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "wste.edu.pl": {
+      "name": "Wyższa Szkoła Turystyki i Ekologii w Suchej Beskidzkiej",
+      "additional_names": [],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -26996,6 +27194,15 @@
       "name": "Uniwersytet Przyrodniczy we Wrocławiu",
       "additional_names": [
         "Wrocław University of Environmental and Life Sciences"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "microsoft.zsolawa.edu.pl": {
+      "name": "Zespół Szkół im. Zjednoczonej Europy w Oławie",
+      "additional_names": [
+        "School Complex named after united Europe in Oława"
       ],
       "is_group": false,
       "verified": true,
@@ -28082,6 +28289,15 @@
       "verified": true,
       "is_abused": false
     },
+    "student.kans.pl": {
+      "name": "Karkonoska Akademia Nauk Stosowanych",
+      "additional_names": [
+        "The Karkonosze University of Applied Sciences"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "zset.leszno.pl": {
       "name": "Zespol Szkol Elektroniczno Telekomunikacyjnych w Lesznie",
       "additional_names": [],
@@ -28243,6 +28459,13 @@
       "additional_names": [
         "University of Technology, Katowice, Poland"
       ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "uczniowie.zsplady.raszyn.pl": {
+      "name": "Szkoła Podstawowa w Ładach",
+      "additional_names": [],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -29681,13 +29904,6 @@
       "verified": true,
       "is_abused": false
     },
-    "uap.edu.pe": {
-      "name": "Universidad Alas Peruanas",
-      "additional_names": [],
-      "is_group": false,
-      "verified": true,
-      "is_abused": true
-    },
     "unapiquitos.edu.pe": {
       "name": "Universidad Nacional De La Amazonia Peruana",
       "additional_names": [
@@ -30988,13 +31204,6 @@
     },
     "oakland.k12.mi.us": {
       "name": "Oakland Schools Technical Campus NW",
-      "additional_names": [],
-      "is_group": false,
-      "verified": true,
-      "is_abused": false
-    },
-    "roseville.k12.mi.us": {
-      "name": "Roseville High School",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -32574,6 +32783,15 @@
       "verified": true,
       "is_abused": false
     },
+    "dhcntt.edu.vn": {
+      "name": "Đại Học Công Nghệ Thông Tin Sài Gòn",
+      "additional_names": [
+        "University of Information Technology Saigon"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "viendong.edu.vn": {
       "name": "Cao Đẳng Viễn Đông",
       "additional_names": [
@@ -33177,15 +33395,6 @@
       "name": "Trường Đại Học Ngân Hàng TPHCM",
       "additional_names": [
         "Banking University TPHCM"
-      ],
-      "is_group": false,
-      "verified": true,
-      "is_abused": false
-    },
-    "lqddn.edu.vn": {
-      "name": "Le Quy Don",
-      "additional_names": [
-        "Le Quy Don"
       ],
       "is_group": false,
       "verified": true,
@@ -33900,6 +34109,13 @@
       "verified": true,
       "is_abused": false
     },
+    "sna.edu.vn": {
+      "name": "International Schools of North America",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "pgdanlao.edu.vn": {
       "name": "Phòng GD&ĐT Huyện An Lão",
       "additional_names": [
@@ -34192,6 +34408,15 @@
       "name": "Trường THPT Nguyễn Hữu Huân",
       "additional_names": [
         "Nguyen Huu Huan High School"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "nguyensieuschool.edu.vn": {
+      "name": "Trường THCS và THPT Nguyễn Siêu",
+      "additional_names": [
+        "Nguyen Sieu Secondary and High School"
       ],
       "is_group": false,
       "verified": true,
@@ -34529,6 +34754,15 @@
       "name": "Viện Nghiên cứu và Đào tạo Việt Anh",
       "additional_names": [
         "The VNUK Institute for Research and Executive Education"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "thpt-minhkhai-hatinh.edu.vn": {
+      "name": "Trường THPT Nguyễn Thị Minh Khai - Hà Tĩnh",
+      "additional_names": [
+        "Minh Khai Senior High School - Ha Tinh"
       ],
       "is_group": false,
       "verified": true,
@@ -34954,15 +35188,6 @@
       "verified": true,
       "is_abused": false
     },
-    "student.isb.edu.vn": {
-      "name": "Viện đào tạo quốc tế - Trường Đại học Kinh tế Thành phố Hồ Chí Minh",
-      "additional_names": [
-        "International School of Business - University of Economics, Ho Chi Minh city, Viet Nam"
-      ],
-      "is_group": false,
-      "verified": true,
-      "is_abused": false
-    },
     "st.hlu.edu.vn": {
       "name": "Đại học luật Hà Nội",
       "additional_names": [
@@ -35106,6 +35331,15 @@
       "name": "Trường Đại học Công Nghệ Giao Thông Vận Tải",
       "additional_names": [
         "University Of Transport Technology"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "vku.udn.vn": {
+      "name": "Trường Đại học Công nghệ Thông tin và Truyền thông Việt – Hàn",
+      "additional_names": [
+        "Vietnam - Korea University of Information and Communication Technology"
       ],
       "is_group": false,
       "verified": true,
@@ -36514,6 +36748,15 @@
       "verified": true,
       "is_abused": false
     },
+    "stud.nau.edu.ua": {
+      "name": "Державний Університет “Київський авіаційний інститут”",
+      "additional_names": [
+        "State University \"Kyiv Aviation Institute\""
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "npp.nau.edu.ua": {
       "name": "Національний Авіаційний Університет",
       "additional_names": [
@@ -36747,6 +36990,15 @@
       "verified": true,
       "is_abused": false
     },
+    "vtc.vn.ua": {
+      "name": "Вінницький технічних фаховий коледж",
+      "additional_names": [
+        "Vinnytsia Technical Applied College"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "khnu.km.ua": {
       "name": "Khmelnitsky National University",
       "additional_names": [
@@ -36925,6 +37177,16 @@
       "verified": true,
       "is_abused": false
     },
+    "kpik.org.ua": {
+      "name": "Кам’янець-Подільський фаховий коледж індустрії, бізнесу та інформаційних технологій",
+      "additional_names": [
+        "К-ПІК",
+        "Kamianets-Podilskyi industrial college"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "kgemt.org.ua": {
       "name": "ВСП Гірничо-електромеханічний фаховий коледж \"КНУ\"",
       "additional_names": [
@@ -37016,6 +37278,15 @@
       "name": "Володимир-Волинський фаховий коледж",
       "additional_names": [
         "Volodymyr-Volynskyi Vocational College"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "matbnau.in.ua": {
+      "name": "ВСП \"Маслівський аграрний фаховий коледж ім. П.Х. Гаркавого Білоцерківського національного аграрного університету\"",
+      "additional_names": [
+        "Separated Structural Unit P.Kh.Garkavyi Maslivka Agrarian Professional College of Bila Tserkva National Agrarian University"
       ],
       "is_group": false,
       "verified": true,
@@ -37233,6 +37504,13 @@
       "verified": true,
       "is_abused": false
     },
+    "korzhi-school.edukit.kiev.ua": {
+      "name": "Korzhivska Gymnasium",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "new.naukova-zmina.kiev.ua": {
       "name": "Ліцей Наукова Зміна",
       "additional_names": [
@@ -37410,13 +37688,6 @@
     },
     "lyceum3.mk.ua": {
       "name": "Миколаївський ліцей №3",
-      "additional_names": [],
-      "is_group": false,
-      "verified": true,
-      "is_abused": false
-    },
-    "school3.mk.ua": {
-      "name": "﻿Миколаївська загальноосвітня школа І-ІІІ ступенів №3",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -38029,6 +38300,13 @@
     },
     "unab.edu.sv": {
       "name": "Universidad Dr. Andreas Bello",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "keyinstitute.edu.sv": {
+      "name": "Instituto Especializado de Nivel Superior Kriete de Ingeniería y Ciencias",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -40012,6 +40290,15 @@
       "verified": true,
       "is_abused": false
     },
+    "mymdc.net": {
+      "name": "Miami Dade College",
+      "additional_names": [
+        "Miami Dade College"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "fapsnewdelhi.net": {
       "name": "The Frank Anthony Public School",
       "additional_names": [],
@@ -40413,6 +40700,13 @@
     },
     "indianatech.net": {
       "name": "Indiana Tech",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "iesfgc.net": {
+      "name": "Francisco Grande Covián (I.E.S. Zaragoza)",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -41748,6 +42042,13 @@
       "verified": true,
       "is_abused": false
     },
+    "hartfordschools.net": {
+      "name": "Hartford High School",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "universityofsomalia.net": {
       "name": "University of Somalia",
       "additional_names": [],
@@ -41787,6 +42088,13 @@
     },
     "hwps.net": {
       "name": "George W Hewlett High School",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "stmarys.net": {
+      "name": "St Mary's Catholic School",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -42184,6 +42492,13 @@
       "verified": true,
       "is_abused": false
     },
+    "net.ckcs.net": {
+      "name": "Parker Core Knowledge",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "learn.conejousd.net": {
       "name": "Westlake High School",
       "additional_names": [],
@@ -42223,6 +42538,13 @@
     },
     "learn.flvs.net": {
       "name": "Florida Virtual School",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "elpuig.xeill.net": {
+      "name": "Institut Puig Castellar",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -43031,15 +43353,6 @@
       "verified": true,
       "is_abused": false
     },
-    "uzambeze.ac.mz": {
-      "name": "Universidade Zambeze",
-      "additional_names": [
-        "Zambeze University"
-      ],
-      "is_group": false,
-      "verified": true,
-      "is_abused": false
-    },
     "ismonitor.ac.mz": {
       "name": "Instituto Superior Monitor",
       "additional_names": [],
@@ -43307,13 +43620,6 @@
       "verified": true,
       "is_abused": false
     },
-    "knust.edu.gh": {
-      "name": "Kwame Nkrumah University of Science and Technology",
-      "additional_names": [],
-      "is_group": false,
-      "verified": true,
-      "is_abused": false
-    },
     "hcuc.edu.gh": {
       "name": "Heritage Christian University",
       "additional_names": [],
@@ -43367,15 +43673,6 @@
       "name": "University of Education, Winneba",
       "additional_names": [
         "University of Education, Winneba"
-      ],
-      "is_group": false,
-      "verified": true,
-      "is_abused": false
-    },
-    "st.knust.edu.gh": {
-      "name": "Kwame Nkrumah University of Science and Technology",
-      "additional_names": [
-        "Kwame Nkrumah University of Science and Technology"
       ],
       "is_group": false,
       "verified": true,
@@ -43537,15 +43834,6 @@
     "jiu.ac": {
       "name": "Jakarta International University",
       "additional_names": [],
-      "is_group": false,
-      "verified": true,
-      "is_abused": false
-    },
-    "bii.ac": {
-      "name": "Bertha International Institute of Arts and Sciences",
-      "additional_names": [
-        "Bertha International Institute of Arts and Sciences"
-      ],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -44345,13 +44633,6 @@
     },
     "tech-u.edu.ng": {
       "name": "First Technical University",
-      "additional_names": [],
-      "is_group": false,
-      "verified": true,
-      "is_abused": false
-    },
-    "unilorin.edu.ng": {
-      "name": "University of Ilorin",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -48823,7 +49104,7 @@
       ],
       "is_group": false,
       "verified": true,
-      "is_abused": false
+      "is_abused": true
     },
     "uniremhos.edu.do": {
       "name": "Universidad Eugenio Maria de Hostos",
@@ -48856,15 +49137,6 @@
       "name": "Universidad Agroforestal Fernando A.Meriño",
       "additional_names": [
         "Universidad Agroforestal Fernando A.Meriño"
-      ],
-      "is_group": false,
-      "verified": true,
-      "is_abused": false
-    },
-    "uasd.edu.do": {
-      "name": "Universidad Autónoma de Santo Domingo",
-      "additional_names": [
-        "Universidad Autónoma de Santo Domingo"
       ],
       "is_group": false,
       "verified": true,
@@ -49000,6 +49272,13 @@
       "is_group": false,
       "verified": true,
       "is_abused": false
+    },
+    "est.uasd.edu.do": {
+      "name": "Autonomous University of Santo Domingo",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": true
     },
     "uin.no": {
       "name": "University of Nordland",
@@ -49774,6 +50053,15 @@
         "Computer Technology Institute and Press “DIOPHANTUS” (CTI)",
         "Institute Official URL:",
         "https://www.cti.gr/"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "aristotelio.gr": {
+      "name": "Αριστοτέλειο Εκπαιδευτήριο - Σέρρες",
+      "additional_names": [
+        "Aristotle School - Serres"
       ],
       "is_group": false,
       "verified": true,
@@ -50724,6 +51012,13 @@
       "verified": true,
       "is_abused": false
     },
+    "sub.edu.bd": {
+      "name": "State University of Bangladesh",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "baust.edu.bd": {
       "name": "Bangladesh Army University of Science and Technology (BAUST), Saidpur",
       "additional_names": [],
@@ -50965,6 +51260,13 @@
       "verified": true,
       "is_abused": false
     },
+    "ncpsc.edu.bd": {
+      "name": "Nirjhor Cantonment Public School & College",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "royal.edu.bd": {
       "name": "Royal University of Dhaka",
       "additional_names": [],
@@ -50977,6 +51279,13 @@
       "additional_names": [
         "Bangladesh International Tutorial Limited"
       ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "mangrove.edu.bd": {
+      "name": "Mangrove Institute of Science and Technology",
+      "additional_names": [],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -51028,6 +51337,15 @@
     "fcub.edu.bd": {
       "name": "First Capital University of Bangladesh",
       "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "ksshs.edu.bd": {
+      "name": "Khondker Shamsuddin Smrity High School",
+      "additional_names": [
+        "Khondker Shamsuddin Smrity High School"
+      ],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -51369,6 +51687,15 @@
       "name": "Asian University of Bangladesh",
       "additional_names": [
         "Asian University of Bangladesh"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "student.green.ac.bd": {
+      "name": "Green University of Bangladesh",
+      "additional_names": [
+        "Green University of Bangladesh"
       ],
       "is_group": false,
       "verified": true,
@@ -52354,6 +52681,15 @@
     "orkhon.edu.mn": {
       "name": "Orkhon University",
       "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "nhs.edu.mn": {
+      "name": "Нэст Эдүкэйшн Ай Ти сургууль",
+      "additional_names": [
+        "Nest Education IT School"
+      ],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -61080,6 +61416,13 @@
       "verified": true,
       "is_abused": false
     },
+    "iescotarelo.org": {
+      "name": "I.E.S. Armando Cotarelo Valledor",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "fresnou.org": {
       "name": "Edison High School",
       "additional_names": [],
@@ -61810,6 +62153,13 @@
       "is_group": false,
       "verified": true,
       "is_abused": false
+    },
+    "spjain.org": {
+      "name": "S P Jain School of Global Management",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": true
     },
     "ksd.org": {
       "name": "Kennewick High School",
@@ -62790,6 +63140,13 @@
       "verified": true,
       "is_abused": false
     },
+    "xime.org": {
+      "name": "Xavier Institute of Management and Entrepreneurship, Bangalore",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "netherhall.org": {
       "name": "The Netherhall School",
       "additional_names": [],
@@ -63301,6 +63658,13 @@
     },
     "argenta-oreana.org": {
       "name": "Argenta Oreana Middle School",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "ucao-uuco.org": {
+      "name": "Université Catholique de l'Afrique de l'Ouest - Unité Universitaire à Conakry",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -64131,6 +64495,13 @@
     },
     "warwicksd.org": {
       "name": "Warwick High School - Lititz, PA, USA",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "flsplano.org": {
+      "name": "Faith Lutheran School",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -65394,6 +65765,13 @@
       "verified": true,
       "is_abused": false
     },
+    "yearupunited.org": {
+      "name": "Year Up United",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "campus-la-chataigneraie.org": {
       "name": "Campus la Châtaigneraie",
       "additional_names": [],
@@ -65670,6 +66048,13 @@
     },
     "innovationcharter.org": {
       "name": "Innovation Acadamy Charter School",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "tsecedu.org": {
+      "name": "Thadomal shahani Engineering College",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -66028,6 +66413,13 @@
       "additional_names": [
         "Maharishi International University"
       ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "msrcl.org": {
+      "name": "Ramaiah College of Law",
+      "additional_names": [],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -66845,6 +67237,13 @@
       "verified": true,
       "is_abused": false
     },
+    "chasehigh.org": {
+      "name": "Chase High School",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "thakureducation.org": {
       "name": "Thakur College of Engineering and Technology",
       "additional_names": [],
@@ -67276,6 +67675,15 @@
       "name": "Creighton Preparatory School",
       "additional_names": [],
       "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "ahsd.org": {
+      "name": "Abington Heights School District",
+      "additional_names": [
+        "Abington Heights High School"
+      ],
+      "is_group": true,
       "verified": true,
       "is_abused": false
     },
@@ -68018,6 +68426,13 @@
     },
     "dalton.org": {
       "name": "The Dalton School",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "majorana.org": {
+      "name": "IISS Ettore Majorana",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -69501,6 +69916,13 @@
       "verified": true,
       "is_abused": false
     },
+    "apps.dickinsonisd.org": {
+      "name": "Dickinson High School",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "stu.burbankusd.org": {
       "name": "Burbank Unified School District",
       "additional_names": [],
@@ -70697,6 +71119,15 @@
       "verified": true,
       "is_abused": false
     },
+    "cep.in": {
+      "name": "College of Engineering Poonjar",
+      "additional_names": [
+        "College of Engineering Poonjar"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "kvberhampur.in": {
       "name": "Kendriya Vidyalaya Brahmapur",
       "additional_names": [],
@@ -70758,6 +71189,16 @@
     "kvsrodelhi.in": {
       "name": "Kendriya Vidyalaya Sangathan",
       "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "jeccac.in": {
+      "name": "JYOTHI ENGINEERING COLLEGE",
+      "additional_names": [
+        "JYOTHI ENGINEERING COLLEGE, Cheruthuruthy",
+        "JYOTHI ENGINEERING COLLEGE(Autonomous)"
+      ],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -70858,6 +71299,16 @@
       "verified": true,
       "is_abused": false
     },
+    "nmims.in": {
+      "name": "SVKM’s NMIMS (Narsee Monjee Institute of Management Studies)",
+      "additional_names": [
+        "Mukesh Patel School of Technology Management & Engineering, Mumbai",
+        "Mukesh Patel School of Technology Management & Engineering, Shirpur"
+      ],
+      "is_group": true,
+      "verified": true,
+      "is_abused": false
+    },
     "pathways.in": {
       "name": "Pathways World School Aravali",
       "additional_names": [],
@@ -70882,6 +71333,15 @@
     "siom.in": {
       "name": "Symbiosis Institute of Operations Management",
       "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "Keystonesoe.in": {
+      "name": "Keystone School Of Engineering",
+      "additional_names": [
+        "Keystone School Of Engineering"
+      ],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -71164,6 +71624,22 @@
       "verified": true,
       "is_abused": false
     },
+    "mvgrce.edu.in": {
+      "name": "Maharaj Vijayaram Gajapathi Raj College of Engineering",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "sret.edu.in": {
+      "name": "Sri Ramachandra Engineering and Technology",
+      "additional_names": [
+        "Sri Ramachandra Engineering and Technology"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "ahduni.edu.in": {
       "name": "Ahmedabad University",
       "additional_names": [
@@ -71273,6 +71749,13 @@
       "verified": true,
       "is_abused": false
     },
+    "psrr.edu.in": {
+      "name": "P.S.R.R college of engineering",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "aot.edu.in": {
       "name": "Academy Of Technology, Adisaptagram",
       "additional_names": [],
@@ -71352,6 +71835,13 @@
       "verified": true,
       "is_abused": false
     },
+    "mitid.edu.in": {
+      "name": "Maharashtra Institute of Technology,  Art Design and Technology",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "vcet.edu.in": {
       "name": "Vidyavardhini's college of engineering and technology",
       "additional_names": [],
@@ -71376,6 +71866,15 @@
     "bpitindia.edu.in": {
       "name": "Bhagwan Parshuram Institute of Technology",
       "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "jklu.edu.in": {
+      "name": "JK Lakshmipat University",
+      "additional_names": [
+        "JK Lakshmipat University"
+      ],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -71503,6 +72002,13 @@
       "verified": true,
       "is_abused": false
     },
+    "nsrit.edu.in": {
+      "name": "jawalharlal institute of technology kakinada",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "gvpcdpgc.edu.in": {
       "name": "Gayatri Vidya Parishad College for Degree and PG Courses",
       "additional_names": [],
@@ -71564,6 +72070,13 @@
     },
     "jnn.edu.in": {
       "name": "J.N.N Institute of Engineering",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "rayatbahrauniversity.edu.in": {
+      "name": "Rayat Bahra University",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -71643,6 +72156,13 @@
       "verified": true,
       "is_abused": false
     },
+    "sairam.edu.in": {
+      "name": "Sri SaiRam Institute Of Technology",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "pccegoa.edu.in": {
       "name": "Padre Conceicao College of Engineering, Verna",
       "additional_names": [],
@@ -71707,6 +72227,13 @@
       "verified": true,
       "is_abused": false
     },
+    "bvp.edu.in": {
+      "name": "bharati vidyapeeth institute of management and entrepreneurship development",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "srmuniv.edu.in": {
       "name": "SRM University",
       "additional_names": [],
@@ -71748,6 +72275,15 @@
       "verified": true,
       "is_abused": false
     },
+    "bml.edu.in": {
+      "name": "BML Munjal University",
+      "additional_names": [
+        "BML Munjal University"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "ccis.edu.in": {
       "name": "Cosmos Castle International School",
       "additional_names": [
@@ -71766,6 +72302,13 @@
     },
     "pec.edu.in": {
       "name": "\"Punjab Engineering College (Deemed to be university) Chandigarh\"",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "xaviers.edu.in": {
+      "name": "St. Xaviers College, Mumbai",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -71894,6 +72437,13 @@
       "verified": true,
       "is_abused": false
     },
+    "lendi.edu.in": {
+      "name": "Lendi Institute of Engineering and Technology",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "andhrauniversity.edu.in": {
       "name": "andhrauniversity.edu.in",
       "additional_names": [],
@@ -71912,6 +72462,13 @@
     },
     "mahindrauniversity.edu.in": {
       "name": "Ecole Centrale School of Engineering Mahindra University",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "diet.edu.in": {
+      "name": "Dadi Institute of Engineering & Technology",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -72007,6 +72564,13 @@
       "verified": true,
       "is_abused": false
     },
+    "vsit.edu.in": {
+      "name": "Vidyalankar School of Information Technology",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "rkgit.edu.in": {
       "name": "Raj Kumar Goel Institute of Technology",
       "additional_names": [],
@@ -72014,8 +72578,22 @@
       "verified": true,
       "is_abused": false
     },
+    "padmampolytechnic.edu.in": {
+      "name": "Sri Padmam Polytechnic College",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "ashoka.edu.in": {
       "name": "Ashoka University",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "kdic.edu.in": {
+      "name": "Keshmat Devi Intermediate College",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -72123,6 +72701,13 @@
       "verified": true,
       "is_abused": false
     },
+    "svlps.edu.in": {
+      "name": "Sri Vidyalakshmi Public School",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "mbit.edu.in": {
       "name": "mbit.edu.in",
       "additional_names": [],
@@ -72214,6 +72799,25 @@
     "rvce.edu.in": {
       "name": "R V College of Engineering",
       "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "aryacollege.edu.in": {
+      "name": "Arya Institute of Engineering and Technology",
+      "additional_names": [
+        "Arya Institute of Engineering and Technology"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "gcet.edu.in": {
+      "name": "Geethanjali College Of Engineering and Technology, Hyderabad, India",
+      "additional_names": [
+        "Geethanjali College Of Engineering and Technology",
+        "gcet.edu.in/index"
+      ],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -72685,6 +73289,13 @@
       "verified": true,
       "is_abused": false
     },
+    "saranathan.ac.in": {
+      "name": "saranathan college of engineering",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "srec.ac.in": {
       "name": "Sri Ramakrishna Engineering College",
       "additional_names": [],
@@ -72702,6 +73313,24 @@
     "mitsgwl.ac.in": {
       "name": "Madhav Institute of Technology & Science",
       "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "auttvl.ac.in": {
+      "name": "Anna University Tirunelveli (Tirunelveli, Tamil Nadu)",
+      "additional_names": [
+        "Anna University Tirunelveli (Tirunelveli, Tamil Nadu)"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "jssateb.ac.in": {
+      "name": "JSS Academy of Technical Education",
+      "additional_names": [
+        "JSS Academy of Technical Education"
+      ],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -72800,6 +73429,13 @@
       "verified": true,
       "is_abused": false
     },
+    "uvce.ac.in": {
+      "name": "Univerity Visvesvaraya College of Engineering(UVCE)",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "myamu.ac.in": {
       "name": "Aligarh Muslim University, Aligarh",
       "additional_names": [],
@@ -72817,6 +73453,22 @@
     "apsshankarvihar.ac.in": {
       "name": "Army Public School, Shankar Vihar",
       "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "imt.ac.in": {
+      "name": "Institute of Management Technology, Ghaziabad, India",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "mesce.ac.in": {
+      "name": "MES College of Engineering Kuttippuram",
+      "additional_names": [
+        "MES College of Engineering Kuttippuram"
+      ],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -72911,6 +73563,13 @@
       "verified": true,
       "is_abused": false
     },
+    "gbpuat.ac.in": {
+      "name": "Govind Ballabh Pant University of Agriculture and Technology, Pantnagar",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "velsuniv.ac.in": {
       "name": "Vels Institute of Science, Technology & Advanced Studies(VISTAS)",
       "additional_names": [
@@ -72933,6 +73592,13 @@
     },
     "gcek.ac.in": {
       "name": "Government College of Engineering Kannur",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "svceindore.ac.in": {
+      "name": "Swami Vivekanand College of Engineering, Indore",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -72998,6 +73664,13 @@
     },
     "iiitdm.ac.in": {
       "name": "Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "nitmz.ac.in": {
+      "name": "National Institute of Technology, Mizoram",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -73096,6 +73769,23 @@
       "verified": true,
       "is_abused": false
     },
+    "bhu.ac.in": {
+      "name": "Banaras Hindu University",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "sakec.ac.in": {
+      "name": "Shah & Anchor Kutchhi Engineering College",
+      "additional_names": [
+        "Shah and Anchor Kutchhi Engineering College",
+        "sakec"
+      ],
+      "is_group": true,
+      "verified": true,
+      "is_abused": false
+    },
     "iiitmanipur.ac.in": {
       "name": "Indian Institute of information of technology manipur",
       "additional_names": [],
@@ -73110,9 +73800,26 @@
       "verified": true,
       "is_abused": false
     },
+    "dec.ac.in": {
+      "name": "Dhemaji Engineering College",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "iiests.ac.in": {
       "name": "Indian Institute of Engineering Science and Technology, Shibpur",
       "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "jecc.ac.in": {
+      "name": "JYOTHI ENGINEERING COLLEGE",
+      "additional_names": [
+        "JYOTHI ENGINEERING COLLEGE, Cheruthuruthy",
+        "JYOTHI ENGINEERING COLLEGE(Autonomous)"
+      ],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -73147,6 +73854,13 @@
     },
     "psgitech.ac.in": {
       "name": "PSG Institute of Technology and Applied Research, Coimbatore",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "diat.ac.in": {
+      "name": "Defence Institute of Advanced Technology",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -73193,6 +73907,15 @@
       "name": "R.M.D. Engineering College",
       "additional_names": [
         "R.M.D. Engineering College"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "iitism.ac.in": {
+      "name": "भारतीय प्रौद्योगिकी संस्थान (भारतीय खनि विद्यापीठ) धनबाद",
+      "additional_names": [
+        "Indian Institute of Technology (Indian School of Mines) Dhanbad"
       ],
       "is_group": false,
       "verified": true,
@@ -73335,6 +74058,16 @@
       "verified": true,
       "is_abused": false
     },
+    "svce.ac.in": {
+      "name": "Sri Venkateswara College of Engineering.",
+      "additional_names": [
+        "Affiliations: Anna University, Chennai",
+        "University Link : https://www.svce.ac.in/"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "mrcet.ac.in": {
       "name": "Malla Reddy College of Engineering and Technology",
       "additional_names": [],
@@ -73414,6 +74147,13 @@
       "verified": true,
       "is_abused": false
     },
+    "upsifs.ac.in": {
+      "name": "Uttar Padesh State Institute of Forensic Science",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "bvrit.ac.in": {
       "name": "B. V. Raju Institute of Technology",
       "additional_names": [],
@@ -73463,6 +74203,13 @@
       "verified": true,
       "is_abused": false
     },
+    "aitsrajampet.ac.in": {
+      "name": "Annamacharya Institute of Technology and Sciences",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "mitaoe.ac.in": {
       "name": "MIT Academy of Engineering - Pune",
       "additional_names": [],
@@ -73507,8 +74254,29 @@
       "verified": true,
       "is_abused": false
     },
+    "ggi.ac.in": {
+      "name": "Gulzar Group Of Institutes",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "rcee.ac.in": {
+      "name": "Ramachandra College Of Engineering",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "stcet.ac.in": {
       "name": "St. Thomas' College of Engineering and Technology",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "vgu.ac.in": {
+      "name": "Vivekananda Global University",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -73530,6 +74298,13 @@
     },
     "krishnacollege.ac.in": {
       "name": "Krishna Engineering College",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "iiitu.ac.in": {
+      "name": "Indian Institute of Information Technology Una",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -73674,6 +74449,13 @@
       "verified": true,
       "is_abused": false
     },
+    "indusuni.ac.in": {
+      "name": "Indus University, Ahmedabad",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "nssce.ac.in": {
       "name": "NSS College Of Engineering Palakkad",
       "additional_names": [],
@@ -73705,6 +74487,15 @@
     "tezu.ac.in": {
       "name": "Tezpur University,Assam,India",
       "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "unigoa.ac.in": {
+      "name": "Goa University",
+      "additional_names": [
+        "Goa University"
+      ],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -73893,8 +74684,29 @@
       "verified": true,
       "is_abused": false
     },
+    "kit.ac.in": {
+      "name": "Kanpur Institute of Technology",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "mnnit.ac.in": {
       "name": "Motilal Nehru National Institute of Technology Allahabad, Prayagraj",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "pmec.ac.in": {
+      "name": "Parala Maharaja Engineering College",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "bbdnitm.ac.in": {
+      "name": "Babu Banarasi Das Institute of Technology and Management",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -74248,6 +75060,13 @@
       "verified": true,
       "is_abused": false
     },
+    "sliet.ac.in": {
+      "name": "Sant Longowal Institute of Engineering and Technology",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "nith.ac.in": {
       "name": "National Institute of Technology, Hamirpur",
       "additional_names": [],
@@ -74262,11 +75081,27 @@
       "verified": true,
       "is_abused": false
     },
+    "iiitsurat.ac.in": {
+      "name": "Indian Institute of Information Technology, Surat",
+      "additional_names": [
+        "Indian Institute of Information Technology, Surat"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "xlri.ac.in": {
       "name": "Xavier School of Management",
       "additional_names": [
         "XLRI - Xavier School of Management"
       ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "geca.ac.in": {
+      "name": "Government College Of Engineering, Aurangabad",
+      "additional_names": [],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -74296,6 +75131,13 @@
     },
     "nsit.ac.in": {
       "name": "Netaji Subhas Institute Of Technology",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "mgits.ac.in": {
+      "name": "Muthoot Institute Of Technology and Science",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -74355,6 +75197,13 @@
       "verified": true,
       "is_abused": false
     },
+    "rjit.ac.in": {
+      "name": "Rustamji Institute Of Technology",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "iiitdmj.ac.in": {
       "name": "Indian Institute of Information Technology",
       "additional_names": [],
@@ -74409,6 +75258,19 @@
     "vitalum.ac.in": {
       "name": "Vit vellore",
       "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "iiitranchi.ac.in": {
+      "name": "Indian Institute of Information Technology Ranchi",
+      "additional_names": [
+        "IIIT Ranchi",
+        "IIITR",
+        "University Official Website URL - https://iiitranchi.ac.in/",
+        "URL of a page on the official website where a long-term (>1 year) IT related course is offered by the university - https://iiitranchi.ac.in/BTech.aspx",
+        "URL of a page showing that the university recognizes the domain which I have submitted - https://iiitranchi.ac.in/contact_persons.aspx"
+      ],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -74619,6 +75481,13 @@
       "verified": true,
       "is_abused": false
     },
+    "nie.ac.in": {
+      "name": "The National Institute of Engineering, Mysuru",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "marwadiuniversity.ac.in": {
       "name": "Marwadi University - Rajkot,Gujarat",
       "additional_names": [],
@@ -74712,6 +75581,13 @@
       "verified": true,
       "is_abused": false
     },
+    "gprec.ac.in": {
+      "name": "G. Pulla Reddy Engineering College",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "jjmcoe.ac.in": {
       "name": "Dr. J J Magdum College of Engineering",
       "additional_names": [
@@ -74741,6 +75617,31 @@
       "name": "Pranveer Singh Institute of Technology, Kanpur, Uttar Pradesh",
       "additional_names": [
         "Pranveer Singh Institute of Technology, Kanpur, Uttar Pradesh"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "tkrec.ac.in": {
+      "name": "Teegala Krishna Reddy Engineering College",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "darshan.ac.in": {
+      "name": "Darshan university",
+      "additional_names": [
+        "Darshan university rajkot"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "kgec.ac.in": {
+      "name": "Kalyani Government Engineering College",
+      "additional_names": [
+        "Kalyani Government Engineering College"
       ],
       "is_group": false,
       "verified": true,
@@ -74844,6 +75745,13 @@
       "additional_names": [
         "Om Sterling Global University"
       ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "sis.ac.in": {
+      "name": "Symbiosis International School",
+      "additional_names": [],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -74962,10 +75870,42 @@
       "verified": true,
       "is_abused": false
     },
+    "sgndkc.du.ac.in": {
+      "name": "Sri Guru Nanak Dev Khalsa College",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "kmc.du.ac.in": {
+      "name": "Kirori Mal College, University of Delhi",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "cvs.du.ac.in": {
       "name": "College Of Vocational Studies, Delhi University",
       "additional_names": [
         "College Of Vocational Studies, Delhi University"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "ce.du.ac.in": {
+      "name": "Faculty of Technology, University of Delhi",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "cs.du.ac.in": {
+      "name": "Department of Computer Science, University of Delhi, Delhi, India",
+      "additional_names": [
+        "Website URL >> (https://www.dsc.du.ac.in/)",
+        "Long Term Course Offered (>1 Year) >> (https://cs.du.ac.in/programmes/mca/) - Here Mentioned is Master of Computer Applications",
+        "Domain Name is as shared in the 2nd line."
       ],
       "is_group": false,
       "verified": true,
@@ -75162,6 +76102,13 @@
     },
     "sitcoe.org.in": {
       "name": "Sharad Institute of Technology College of Engineering, Ichalkaranji (Kolhapur)",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "jeckukas.org.in": {
+      "name": "Jaipur Engineering College",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -75781,6 +76728,15 @@
       "is_group": false,
       "verified": true,
       "is_abused": true
+    },
+    "auct.edu.jo": {
+      "name": "Arab University College of Technology",
+      "additional_names": [
+        "Arab University College of Technology"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
     },
     "ahu.edu.jo": {
       "name": "Al Hussein Bin Talal University",
@@ -77962,6 +78918,15 @@
       "verified": true,
       "is_abused": false
     },
+    "usz.ch": {
+      "name": "Universitätsspital Zürich",
+      "additional_names": [
+        "University Hospital of Zurich"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "kbw.ch": {
       "name": "Kantonsschule Büelrain Winterthur",
       "additional_names": [],
@@ -78203,6 +79168,15 @@
       "verified": true,
       "is_abused": false
     },
+    "actc.center": {
+      "name": "Advanced Computer Technology College",
+      "additional_names": [
+        "Advanced Computer Technology College"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "lnbti.lk": {
       "name": "Lanka Nipon BizTech Institute",
       "additional_names": [],
@@ -78212,13 +79186,6 @@
     },
     "ousl.lk": {
       "name": "Open University of Sri Lanka",
-      "additional_names": [],
-      "is_group": false,
-      "verified": true,
-      "is_abused": false
-    },
-    "lyceum.lk": {
-      "name": "Lyceum International Schools",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -78328,6 +79295,13 @@
       "verified": true,
       "is_abused": false
     },
+    "ktmv.lk": {
+      "name": "Kandenuwara Tamil Maha Vidyalayam",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "acbt.lk": {
       "name": "Australian college of business and technology",
       "additional_names": [],
@@ -78388,6 +79362,13 @@
     },
     "icbtcampus.edu.lk": {
       "name": "ICBT Campus",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "schoolofcomputing.edu.lk": {
+      "name": "School of Computing by Anka Technologies",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -78455,6 +79436,13 @@
     },
     "uovt.ac.lk": {
       "name": "University of Vocational Technology",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "nsbm.ac.lk": {
+      "name": "NSBM Green University",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -79112,13 +80100,6 @@
       "verified": true,
       "is_abused": false
     },
-    "utp.edu.co": {
-      "name": "Universidad Tecnológica de Pereira",
-      "additional_names": [],
-      "is_group": false,
-      "verified": true,
-      "is_abused": false
-    },
     "uniautonoma.edu.co": {
       "name": "Corporacion Universitaria Autonoma del Cauca",
       "additional_names": [],
@@ -79471,13 +80452,6 @@
       "additional_names": [
         "University Corporation Remington"
       ],
-      "is_group": false,
-      "verified": true,
-      "is_abused": false
-    },
-    "tdea.edu.co": {
-      "name": "Tecnológico de Antioquia",
-      "additional_names": [],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -81006,6 +81980,13 @@
     },
     "unipg.it": {
       "name": "University of Perugia",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "liceodavincitn.it": {
+      "name": "liceo da Vinci Trento",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -82810,6 +83791,13 @@
       "verified": true,
       "is_abused": false
     },
+    "iisviolamarchesini.edu.it": {
+      "name": "IIS Viola Marchesini",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "isradice.edu.it": {
       "name": "I.I.S.S Benedetto Radice",
       "additional_names": [],
@@ -82952,6 +83940,13 @@
       "additional_names": [
         "ITIS A. Scarpa, Motta di Livenza (TV)"
       ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "itetgirardi.edu.it": {
+      "name": "I.T.E.T. G.Girardi - Cittadella (PD)",
+      "additional_names": [],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -83228,6 +84223,13 @@
       "verified": true,
       "is_abused": false
     },
+    "itstkennedy.edu.it": {
+      "name": "Istituto Tecnico Settore Tecnologico J.F.Kennedy, Pordenone",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "itiszuccante.edu.it": {
       "name": "ITIS \"C. Zuccante\", Mestre (VE)",
       "additional_names": [],
@@ -83320,6 +84322,15 @@
     "studenti8marzo.edu.it": {
       "name": "ISTITUTO DI ISTRUZIONE SUPERIORE \"8 MARZO\"",
       "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "iismarzoli.edu.it": {
+      "name": "Istituto Tecnico Tecnologico Cristoforo Marzoli - Palazzolo sull'Oglio",
+      "additional_names": [
+        "Technical Institute of Technology Cristoforo Marzoli - Palazzolo sull'Oglio"
+      ],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -83660,6 +84671,13 @@
       "verified": true,
       "is_abused": false
     },
+    "itemartini.edu.it": {
+      "name": "Istituto Tecnico Economico Pietro Martini",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "iisfermisacconiceciap.edu.it": {
       "name": "Istituto Istruzione Superiore Fermi Sacconi Ceci",
       "additional_names": [],
@@ -83704,6 +84722,13 @@
     },
     "iisbadoni.edu.it": {
       "name": "Istituto di Istruzione Tecnico Antonio Badoni - IIS Badoni",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "donegani-ciliberto.edu.it": {
+      "name": "Polo Tecnologico Donegani - Ciliberto Crotone",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -83760,6 +84785,13 @@
       "additional_names": [
         "HIGHER EDUCATION INSTITUTE \"G.GARIBALDI\""
       ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "polotecnologico.edu.it": {
+      "name": "P.T.P. \"Rambaldi - De Fazio\"",
+      "additional_names": [],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -83917,6 +84949,13 @@
     },
     "icdefinetti.edu.it": {
       "name": "Istituto Comprensivo Bruno De Finetti",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "itedefazio.edu.it": {
+      "name": "P.T.P. \"Rambaldi - De Fazio\"",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -84287,6 +85326,13 @@
     },
     "calvino.ge.it": {
       "name": "Istituto Italo Calvino",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "studenti.unior.it": {
+      "name": "Università degli Studi di Napoli l'Orientale",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -85641,6 +86687,15 @@
     "torontofilmschool.ca": {
       "name": "Toronto Film School",
       "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "willowwoodschool.ca": {
+      "name": "WillowWood School",
+      "additional_names": [
+        "willowwoodschool.ca"
+      ],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -89175,6 +90230,13 @@
       "verified": true,
       "is_abused": false
     },
+    "soskolin.cz": {
+      "name": "SOŠ Informatiky a spojů a SOU Kolín",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "porg.cz": {
       "name": "PORG – gymnázium a základní škola, o. p. s.",
       "additional_names": [],
@@ -90035,6 +91097,13 @@
       "verified": true,
       "is_abused": false
     },
+    "ispade.edu.ec": {
+      "name": "Instituto Tecnológico ISPADE",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "internacional.edu.ec": {
       "name": "Universidad Internacional del Ecuador",
       "additional_names": [],
@@ -90100,15 +91169,6 @@
     "istcarloscisneros.edu.ec": {
       "name": "Instituto Superior Tecnológico Carlos Cisneros",
       "additional_names": [],
-      "is_group": false,
-      "verified": true,
-      "is_abused": false
-    },
-    "itq.edu.ec": {
-      "name": "Instituto Tecnologico Superior Quito",
-      "additional_names": [
-        "Instituto Quito-ITQ"
-      ],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -90562,13 +91622,6 @@
       "additional_names": [
         "Argos University Technological"
       ],
-      "is_group": false,
-      "verified": true,
-      "is_abused": false
-    },
-    "pucese.edu.ec": {
-      "name": "Pontificia Universidad Católica del Ecuador Sede Esmeraldas",
-      "additional_names": [],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -96541,13 +97594,6 @@
       "verified": true,
       "is_abused": false
     },
-    "mit.asia": {
-      "name": "Maharashtra institute of Technology, Aurangabad",
-      "additional_names": [],
-      "is_group": false,
-      "verified": true,
-      "is_abused": false
-    },
     "mbu.asia": {
       "name": "Mohan Babu University",
       "additional_names": [],
@@ -96797,6 +97843,15 @@
       "name": "臺北醫學大學",
       "additional_names": [
         "TAIPEI MEDICAL UNIVERSITY"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "tumt.edu.tw": {
+      "name": "台北海洋科技大學",
+      "additional_names": [
+        "Taipei University of Marine Technology"
       ],
       "is_group": false,
       "verified": true,
@@ -98014,6 +99069,15 @@
       "verified": true,
       "is_abused": false
     },
+    "std.mkc.edu.tw": {
+      "name": "馬偕學校財團法人馬偕醫護管理專科學校",
+      "additional_names": [
+        "Mackay Junior College of Medicine, Nursing and Management"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "go.hwh.edu.tw": {
       "name": "華夏科技大學",
       "additional_names": [
@@ -98592,6 +99656,13 @@
     },
     "isb.rs": {
       "name": "The International School of Belgrade",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "brookhill.rs": {
+      "name": "Brook Hill International School of Belgrade",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -100596,6 +101667,13 @@
       "verified": true,
       "is_abused": false
     },
+    "ltprmm.ro": {
+      "name": "Liceul Teoretic \"Petru Rares\" Targu Lapus",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "upg-ploiesti.ro": {
       "name": "University Oil- Gas Ploiesti",
       "additional_names": [],
@@ -100776,6 +101854,15 @@
     "arteiasi.ro": {
       "name": "Academy of Arts George Enescu Iasi",
       "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "scoalacornerstone.ro": {
+      "name": "Școala Gimnazială Cornerstone Dorohoi",
+      "additional_names": [
+        "Cornerstone Dorohoi Middle School"
+      ],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -101210,6 +102297,13 @@
     },
     "uny.edu.ve": {
       "name": "Universidad Yacambu",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "uma.edu.ve": {
+      "name": "Universidad Monteávila",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -101832,6 +102926,13 @@
     },
     "simad.edu.so": {
       "name": "SIMAD UNIVERSITY",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "st.snu.edu.so": {
+      "name": "Somali National University",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -103271,6 +104372,15 @@
       "verified": true,
       "is_abused": false
     },
+    "aeamatolusitano.edu.pt": {
+      "name": "Escola Secundaria Amato Lusitano",
+      "additional_names": [
+        "Secondary school Amato Lusitano"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "ael.edu.pt": {
       "name": "Agrupamento de Escolas das Laranjeiras",
       "additional_names": [],
@@ -104669,6 +105779,15 @@
     "accesstomusic.ac.uk": {
       "name": "Access Creative College",
       "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "lancashire.ac.uk": {
+      "name": "University of Lancashire",
+      "additional_names": [
+        "University of Central Lancashire"
+      ],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -106661,6 +107780,15 @@
       "verified": true,
       "is_abused": false
     },
+    "ua92.ac.uk": {
+      "name": "University Academy 92",
+      "additional_names": [
+        "UA92"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "ebi.ac.uk": {
       "name": "European Molecular Biology Laboratory - European Bioinformatics Institute",
       "additional_names": [],
@@ -107091,7 +108219,7 @@
       "verified": true,
       "is_abused": false
     },
-    "student.gbmc.ac.uk": {
+    "stu.gbmc.ac.uk": {
       "name": "Greater Brighton Metropolitan College (GB MET) for Students.",
       "additional_names": [],
       "is_group": false,
@@ -109450,6 +110578,13 @@
       "verified": true,
       "is_abused": false
     },
+    "st-thomasmore.southend.sch.uk": {
+      "name": "St Thomas More High School Westcliff",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "bishopveseys.bham.sch.uk": {
       "name": "Bishop Vesey's Grammar School",
       "additional_names": [],
@@ -109459,6 +110594,13 @@
     },
     "wheelerslane.bham.sch.uk": {
       "name": "Wheelers Lane Technology College",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "whsb.essex.sch.uk": {
+      "name": "Westcliff High School for Boys",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -109590,6 +110732,13 @@
       "additional_names": [
         "Queens Park Community School"
       ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "ncc.brent.sch.uk": {
+      "name": "NEWMAN CATHOLIC COLLEGE",
+      "additional_names": [],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -110472,6 +111621,13 @@
       "additional_names": [
         "Henrietta Barnett School"
       ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "cchs.co.uk": {
+      "name": "Chelmsford County High School for Girls",
+      "additional_names": [],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -111923,13 +113079,6 @@
       "verified": true,
       "is_abused": false
     },
-    "umindanao.edu.ph": {
-      "name": "University of Mindanao",
-      "additional_names": [],
-      "is_group": false,
-      "verified": true,
-      "is_abused": false
-    },
     "arellano.edu.ph": {
       "name": "Arellano University",
       "additional_names": [],
@@ -111939,6 +113088,13 @@
     },
     "vmuf.edu.ph": {
       "name": "Virgen Milagrosa University Foundation",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "NCBA.edu.ph": {
+      "name": "National College Business and Arts(NCBA)",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -112043,6 +113199,15 @@
       "name": "Romblon State University",
       "additional_names": [
         "Romblon State University"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "letran-calamba.edu.ph": {
+      "name": "Colegio de San Juan de Letran Calamba",
+      "additional_names": [
+        "Colegio de San Juan de Letran Calamba"
       ],
       "is_group": false,
       "verified": true,
@@ -112331,6 +113496,13 @@
       "verified": true,
       "is_abused": false
     },
+    "essu.edu.ph": {
+      "name": "Eastern Samar State University",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "isatu.edu.ph": {
       "name": "Iloilo Science and Technology University",
       "additional_names": [],
@@ -112513,6 +113685,15 @@
     "holyspirit.edu.ph": {
       "name": "College of the Holy Spirit",
       "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "aliac.edu.ph": {
+      "name": "Air Link International Aviation College",
+      "additional_names": [
+        "Air Link International Aviation College"
+      ],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -112993,6 +114174,13 @@
     },
     "davao.sti.edu.ph": {
       "name": "STI College Davao",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "kalibo.sti.edu.ph": {
+      "name": "STI College Kalibo",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -114489,13 +115677,6 @@
       "verified": true,
       "is_abused": false
     },
-    "ice.go.kr": {
-      "name": "인천기계공업고등학교",
-      "additional_names": [],
-      "is_group": false,
-      "verified": true,
-      "is_abused": false
-    },
     "haman-h.gne.go.kr": {
       "name": "함안고등학교",
       "additional_names": [
@@ -114509,15 +115690,6 @@
       "name": "남주고등학교",
       "additional_names": [
         "Namju High School"
-      ],
-      "is_group": false,
-      "verified": true,
-      "is_abused": false
-    },
-    "gclass.ice.go.kr": {
-      "name": "인천광역시교육청",
-      "additional_names": [
-        "Incheon Metropolitan Office of Education"
       ],
       "is_group": false,
       "verified": true,
@@ -114826,6 +115998,15 @@
       "verified": true,
       "is_abused": false
     },
+    "gs.ac.kr": {
+      "name": "안양대학교",
+      "additional_names": [
+        "anyang University"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "nuch.ac.kr": {
       "name": "한국전통문화대학교",
       "additional_names": [
@@ -114922,6 +116103,13 @@
       "verified": true,
       "is_abused": false
     },
+    "ks.ac.kr": {
+      "name": "Kyungsung University",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "keimyung.ac.kr": {
       "name": "Keimyung University",
       "additional_names": [],
@@ -114985,6 +116173,15 @@
     "dhc.ac.kr": {
       "name": "대구보건대학교",
       "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "st.ac.kr": {
+      "name": "동아방송예술대학교",
+      "additional_names": [
+        "Dong-ah Institute of Media and Arts"
+      ],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -115230,15 +116427,6 @@
       "name": "서울사이버대학교",
       "additional_names": [
         "Seoul Cyber University"
-      ],
-      "is_group": false,
-      "verified": true,
-      "is_abused": false
-    },
-    "kentech.ac.kr": {
-      "name": "한국에너지공과대학교",
-      "additional_names": [
-        "Korea Institute of Energy Technology"
       ],
       "is_group": false,
       "verified": true,
@@ -116322,13 +117510,6 @@
     },
     "dmu.ac.kr": {
       "name": "dongyang university",
-      "additional_names": [],
-      "is_group": false,
-      "verified": true,
-      "is_abused": false
-    },
-    "snu.ac.kr": {
-      "name": "Seoul National University",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -118784,13 +119965,6 @@
       "verified": true,
       "is_abused": false
     },
-    "uitm.edu.my": {
-      "name": "Universiti Teknologi MARA (UiTM)",
-      "additional_names": [],
-      "is_group": false,
-      "verified": true,
-      "is_abused": false
-    },
     "mmu.edu.my": {
       "name": "Multimedia University",
       "additional_names": [],
@@ -119204,7 +120378,7 @@
       "additional_names": [],
       "is_group": false,
       "verified": true,
-      "is_abused": false
+      "is_abused": true
     },
     "newinti.edu.my": {
       "name": "INTI International University & Colleges",
@@ -119987,6 +121161,15 @@
       "verified": true,
       "is_abused": false
     },
+    "isparm.edu.ar": {
+      "name": "Instituto Superior Antonio Ruiz de Montoya",
+      "additional_names": [
+        "Instituto Superior Antonio Ruiz de Montoya"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "empa.edu.ar": {
       "name": "Escuela de Musica Popular de Avellaneda",
       "additional_names": [
@@ -120012,6 +121195,13 @@
     },
     "unsada.edu.ar": {
       "name": "Universidad Nacional de San Antonio de Areco",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "iesmb.edu.ar": {
+      "name": "Instituto Superior Manuel Belgrano",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -120070,6 +121260,13 @@
     },
     "unpa.edu.ar": {
       "name": "Universidad Nacional de la Patagonia Austral",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "unpilar.edu.ar": {
+      "name": "Universidad Nacional de Pilar",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -120427,6 +121624,15 @@
       "name": "FECEA",
       "additional_names": [
         "FECEA"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "unraf.edu.ar": {
+      "name": "Universidad Nacional de Rafaela",
+      "additional_names": [
+        "National University of Rafaela"
       ],
       "is_group": false,
       "verified": true,
@@ -121126,6 +122332,15 @@
     "atk.kg": {
       "name": "К.И. Скрябин атындагы Кыргыз улуттук агрардык университетине караштуу Султан Ибраимов атындагы Агротехникалык колледжи",
       "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "bilimkana.kg": {
+      "name": "Bilimkana Bishkek",
+      "additional_names": [
+        "Bilimkana Bishkek"
+      ],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -122578,6 +123793,13 @@
       "verified": true,
       "is_abused": false
     },
+    "parra.catholic.edu.au": {
+      "name": "Catholic Education Diocese Parramatta",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "mybce.catholic.edu.au": {
       "name": "Brisbane Catholic Education",
       "additional_names": [],
@@ -122710,6 +123932,15 @@
     "students.aieinstitute.edu.au": {
       "name": "AIE Institute",
       "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "portal.griffithcollege.edu.au": {
+      "name": "Griffith College",
+      "additional_names": [
+        "Griffith College"
+      ],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -123559,6 +124790,15 @@
       "name": "Complexo Escolar Privado Internacional (CEPI) - Maple Bear",
       "additional_names": [
         "Private International School Complex - Maple Bear"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "espbengo.edu.ao": {
+      "name": "Bengo Higher Pedagogical School",
+      "additional_names": [
+        "espbengo.edu.ao"
       ],
       "is_group": false,
       "verified": true,
@@ -124589,6 +125829,15 @@
       "verified": true,
       "is_abused": false
     },
+    "szte.hu": {
+      "name": "University of Szeged",
+      "additional_names": [
+        "https://u-szeged.hu/"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "szbi.hu": {
       "name": "Szent Benedek Gimnázium",
       "additional_names": [
@@ -124843,6 +126092,16 @@
       "name": "Veszprémi Érseki Hittudományi Főiskola",
       "additional_names": [
         "Archepiscopal's Theological College of Veszprem"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "szily.hu": {
+      "name": "Budapesti Gépészeti Szakképzési Centrum Szily Kálmán Technikum és Kollégium",
+      "additional_names": [
+        "szily.hu (student & faculty email)",
+        "https://www.szily.hu/"
       ],
       "is_group": false,
       "verified": true,
@@ -125208,6 +126467,15 @@
     "diak.szigbp.hu": {
       "name": "Szent István Gimnázium Budapest",
       "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "gtk.bme.hu": {
+      "name": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+      "additional_names": [
+        "Budapest University of Technology and Economics"
+      ],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -128227,13 +129495,6 @@
       "additional_names": [
         "Aktobe High polytechnical college"
       ],
-      "is_group": false,
-      "verified": true,
-      "is_abused": false
-    },
-    "wjfs.kz": {
-      "name": "West Kazakhstan Juridical Fintech School",
-      "additional_names": [],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -133598,6 +134859,13 @@
       "verified": true,
       "is_abused": false
     },
+    "prefecotemixco.edu.mx": {
+      "name": "Preparatoria Federal Por Cooperación \"José María Morelos y Pavón\"",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "ilce.edu.mx": {
       "name": "Instituto Latinoamericano de la Comunicación Educativa",
       "additional_names": [
@@ -134176,6 +135444,13 @@
       "verified": true,
       "is_abused": false
     },
+    "upapnl.edu.mx": {
+      "name": "Universidad Politécnica de Apodaca",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "cecytezac.edu.mx": {
       "name": "COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE ZACATECAS",
       "additional_names": [
@@ -134514,6 +135789,15 @@
       "name": "Centro de Investigación en Ciencias de Información Geoespacial",
       "additional_names": [
         "Geospatial Information Science Research Center"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "edgehub.edu.mx": {
+      "name": "Edgehub",
+      "additional_names": [
+        "Edgehub"
       ],
       "is_group": false,
       "verified": true,
@@ -135659,6 +136943,13 @@
       "verified": true,
       "is_abused": false
     },
+    "utma.edu.mx": {
+      "name": "Universidad Tecnológica Metropolitana de Aguascalientes",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "utrivieramaya.edu.mx": {
       "name": "Universidad Tecnológica de la Riviera Maya",
       "additional_names": [],
@@ -136638,6 +137929,13 @@
       "verified": true,
       "is_abused": false
     },
+    "kantgymnasium.de": {
+      "name": "Kant-Gymnasium",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "gesamtschule-fischbach.de": {
       "name": "Gesamtschule Fischbach",
       "additional_names": [],
@@ -137253,6 +138551,13 @@
       "verified": true,
       "is_abused": false
     },
+    "bkneandertal.de": {
+      "name": "Berufskolleg Neandertal",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "bkt-luedenscheid.de": {
       "name": "Berufskolleg für Technik des Märkischen Kreises in Lüdenscheid",
       "additional_names": [],
@@ -137372,6 +138677,13 @@
     },
     "bs1in.de": {
       "name": "Staatliche Berufsschule I Ingolstadt",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "cfvsiemens.de": {
+      "name": "Carl-Friedrich-von-Siemens-Gynasium",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -137624,6 +138936,15 @@
     "ggs-duisburg.de": {
       "name": "Green Gesamtschule",
       "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "whz.de": {
+      "name": "Westsächsische Hochschule Zwickau",
+      "additional_names": [
+        "University of Applied Sciences Zwickau"
+      ],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -137986,6 +139307,13 @@
       "additional_names": [
         "HBFI Westerburg"
       ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "more2learn.de": {
+      "name": "Comcave College",
+      "additional_names": [],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -139938,6 +141266,13 @@
       "verified": true,
       "is_abused": false
     },
+    "bsz-roth.de": {
+      "name": "Lehrkräfte am BSZ Roth",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "uni-karlsruhe.de": {
       "name": "Universität Fridericana Karlsruhe (Technische Hochschule)",
       "additional_names": [],
@@ -140055,6 +141390,13 @@
     },
     "hfbk-hamburg.de": {
       "name": "Hochschule für bildende Künste Hamburg",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "industrieschule.de": {
+      "name": "Berufliches Schulzentrum für Technik I Industrieschule",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -141834,6 +143176,13 @@
       "verified": true,
       "is_abused": false
     },
+    "uni-munich.de": {
+      "name": "Munich University of Digital Technologies & Applied Sciences (MUDT)",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "uni-mainz.de": {
       "name": "Johannes-Gutenberg Universität Mainz",
       "additional_names": [],
@@ -141920,6 +143269,13 @@
     },
     "ligcux.de": {
       "name": "Lichtenberg-Gymnasium Cuxhaven",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "mpg-iserv.de": {
+      "name": "Max-Planck Gymnasium Duisburg",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -142581,6 +143937,13 @@
       "verified": true,
       "is_abused": false
     },
+    "rebbz-wn.de": {
+      "name": "ReBBZ Wandsbek Nord Standort Anne-Frank-Schule",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "igs-del.de": {
       "name": "IGS Delmenhorst",
       "additional_names": [],
@@ -142846,6 +144209,15 @@
     "fg-kassel.de": {
       "name": "Friedrichsgymnasium Kassel",
       "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "gymnasiumsteglitz.de": {
+      "name": "Gymnasium Steglitz",
+      "additional_names": [
+        "Steglitz High School"
+      ],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -145381,6 +146753,13 @@
       "verified": true,
       "is_abused": false
     },
+    "schulen.regensburg.de": {
+      "name": "BSZ Matthäus Runtinger BSIII",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "schule.landsh.de": {
       "name": "Gymnasium Sylt",
       "additional_names": [],
@@ -146198,13 +147577,6 @@
       "verified": true,
       "is_abused": false
     },
-    "uth.hn": {
-      "name": "Universidad Tecnológica de Honduras",
-      "additional_names": [],
-      "is_group": false,
-      "verified": true,
-      "is_abused": false
-    },
     "upnfm.edu.hn": {
       "name": "Universidad Pedagógica Nacional Francisco Morazán",
       "additional_names": [],
@@ -146618,6 +147990,13 @@
     },
     "cbs.dk": {
       "name": "Copenhagen Business School",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "faxesk.dk": {
+      "name": "Nordskovskolen",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -149244,6 +150623,15 @@
       "verified": true,
       "is_abused": false
     },
+    "aems.edu.br": {
+      "name": "AEMS - Faculdades Integradas de Três Lagoas",
+      "additional_names": [
+        "AEMS - Integrated College of Três Lagoas"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "famec.edu.br": {
       "name": "UniFamec Centro Universitário",
       "additional_names": [
@@ -149573,7 +150961,7 @@
       ],
       "is_group": false,
       "verified": true,
-      "is_abused": false
+      "is_abused": true
     },
     "cesuca.edu.br": {
       "name": "Centro Universitário Cesuca",
@@ -149584,13 +150972,6 @@
     },
     "unifoa.edu.br": {
       "name": "Centro Universitário de Volta Redonda - UniFOA",
-      "additional_names": [],
-      "is_group": false,
-      "verified": true,
-      "is_abused": false
-    },
-    "fatecie.edu.br": {
-      "name": "UniFatecie Centro Universitário",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -149722,6 +151103,13 @@
     },
     "doctum.edu.br": {
       "name": "Doctum",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "uniatenas.edu.br": {
+      "name": "Uniatenas Centro Universitário Atenas",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -150203,6 +151591,15 @@
       "verified": true,
       "is_abused": false
     },
+    "unifahe.edu.br": {
+      "name": "Faculdade UNIFAHE",
+      "additional_names": [
+        "UNIFAHE"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "uninga.edu.br": {
       "name": "Centro universitário Ingá - UNINGÁ",
       "additional_names": [],
@@ -150638,7 +152035,7 @@
       "additional_names": [],
       "is_group": false,
       "verified": true,
-      "is_abused": false
+      "is_abused": true
     },
     "unoesc.edu.br": {
       "name": "Universidade do Oeste de Santa Catarina",
@@ -151996,6 +153393,13 @@
       "verified": true,
       "is_abused": false
     },
+    "estudante.faspec.edu.br": {
+      "name": "Faculdade de Ensino Superior Pelegrino Cipriani",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "alunos.unisagrado.edu.br": {
       "name": "Unisagrado",
       "additional_names": [],
@@ -152634,6 +154038,15 @@
       "verified": true,
       "is_abused": false
     },
+    "sesipb.org.br": {
+      "name": "Serviço Social da Indústria da Paraíba",
+      "additional_names": [
+        "SESI Paraíba"
+      ],
+      "is_group": true,
+      "verified": true,
+      "is_abused": false
+    },
     "estudante.sesisenai.org.br": {
       "name": "Industry Social Service - SESI",
       "additional_names": [
@@ -152659,6 +154072,13 @@
       "verified": true,
       "is_abused": false
     },
+    "aluno.sesipb.org.br": {
+      "name": "Sesi - Dionísio Marques de Almeida",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "ime.eb.br": {
       "name": "Instituto Militar de Engenharia",
       "additional_names": [],
@@ -152675,6 +154095,13 @@
     },
     "a.ucb.br": {
       "name": "União Brasileira de Educação Católica - UBEC",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "nitae.ufpa.br": {
+      "name": "O Núcleo de Inovação e Tecnologias Aplicadas a Ensino e Extensão da UFPA",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -155279,6 +156706,13 @@
       "verified": true,
       "is_abused": false
     },
+    "edu.salo.fi": {
+      "name": "Moision Ylä-Aste",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "edu.kokkola.fi": {
       "name": "All schools in the city of Kokkola, Finland",
       "additional_names": [],
@@ -156446,13 +157880,6 @@
       "verified": true,
       "is_abused": false
     },
-    "unmuhpnk.ac.id": {
-      "name": "Universitas Muhammadiyah Pontianak",
-      "additional_names": [],
-      "is_group": false,
-      "verified": true,
-      "is_abused": false
-    },
     "uc.ac.id": {
       "name": "Universitas Ciputra",
       "additional_names": [],
@@ -156824,6 +158251,13 @@
       "additional_names": [
         "North Sumatra State Islamic University"
       ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "poltek-petrokimia.ac.id": {
+      "name": "Politeknik Industri Petrokimia Banten",
+      "additional_names": [],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -157210,13 +158644,6 @@
       "additional_names": [
         "Dian Nusantara University"
       ],
-      "is_group": false,
-      "verified": true,
-      "is_abused": false
-    },
-    "uty.ac.id": {
-      "name": "Universitas Teknologi Yogyakarta",
-      "additional_names": [],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -158118,6 +159545,15 @@
     "moestopo.ac.id": {
       "name": "Universitas Dr. R. Moestopo",
       "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "poltekharber.ac.id": {
+      "name": "Politeknik Harapan Bersama",
+      "additional_names": [
+        "Harapan Bersama Polytechnic"
+      ],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -159314,6 +160750,13 @@
       "verified": true,
       "is_abused": false
     },
+    "student.polman-babel.ac.id": {
+      "name": "Politeknik Manufaktur Negeri Bangka Belitung",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "mhs.polines.ac.id": {
       "name": "Politeknik Negeri Semarang",
       "additional_names": [
@@ -160396,6 +161839,13 @@
       "verified": true,
       "is_abused": false
     },
+    "smkprestasiprima.sch.id": {
+      "name": "SMK PRESTASI PRIMA",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "sutomo-mdn.sch.id": {
       "name": "YAYASAN PERGURUAN SUTOMO",
       "additional_names": [],
@@ -160443,6 +161893,13 @@
       "additional_names": [
         "information technology vocational high school"
       ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "student.debritto.sch.id": {
+      "name": "SMA Kolese De Britto",
+      "additional_names": [],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -160537,6 +161994,13 @@
     },
     "institutoptique.fr": {
       "name": "Institut Optic Graduate School",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "diginamic-formation.fr": {
+      "name": "Diginamic Montpellier",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -162839,6 +164303,15 @@
       "verified": true,
       "is_abused": false
     },
+    "eastbay.fr": {
+      "name": "Institut National de Technologie et de Commerce d'Eastbay",
+      "additional_names": [
+        "Eastbay National Institute of Technology and Commerce"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "stu-esarc-evolution.fr": {
       "name": "ESG - Ecole de commerce",
       "additional_names": [],
@@ -165124,6 +166597,13 @@
       "verified": true,
       "is_abused": false
     },
+    "etrs.terre.defense.gouv.fr": {
+      "name": "Ecole des Transmissions du Numérique et du Cyber",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "st-cyr.terre-net.defense.gouv.fr": {
       "name": "Académie Militaire de Saint-Cyr Coëtquidan",
       "additional_names": [],
@@ -165233,6 +166713,13 @@
       "additional_names": [
         "https://www.42lehavre.fr"
       ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "angers.polebtsalternance.fr": {
+      "name": "Pole BTS Alternance Angers",
+      "additional_names": [],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -165406,6 +166893,15 @@
     "etu.unice.fr": {
       "name": "Université Nice Sophia Antipolis",
       "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "student.42nice.fr": {
+      "name": "42 Nice",
+      "additional_names": [
+        "https://42nice.fr"
+      ],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -165962,6 +167458,15 @@
       "name": "University Of Ninevah",
       "additional_names": [
         "College Of Information Technology"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "st.tu.edu.iq": {
+      "name": "جامعة تكريت",
+      "additional_names": [
+        "Tikrit University"
       ],
       "is_group": false,
       "verified": true,
@@ -168832,6 +170337,13 @@
       "verified": true,
       "is_abused": false
     },
+    "omu.ac.jp": {
+      "name": "Osaka Metropolitan University",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "isct.ac.jp": {
       "name": "東京科学大学",
       "additional_names": [
@@ -169025,6 +170537,15 @@
       "verified": true,
       "is_abused": false
     },
+    "yamanashi.ac.jp": {
+      "name": "山梨大学",
+      "additional_names": [
+        "University of Yamanashi"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "kyoto-phu.ac.jp": {
       "name": "Kyoto Pharmaceutical University",
       "additional_names": [],
@@ -169044,6 +170565,15 @@
     "aomoricgu.ac.jp": {
       "name": "Aomori Chuoh Gakuin University",
       "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "rikkyo.ac.jp": {
+      "name": "立教大学",
+      "additional_names": [
+        "Rikkyo University"
+      ],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -169356,6 +170886,15 @@
       "verified": true,
       "is_abused": false
     },
+    "cyber-u.ac.jp": {
+      "name": "サイバー大学",
+      "additional_names": [
+        "Cyber University"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "kobepharma-u.ac.jp": {
       "name": "Kobe Pharmaceutical University",
       "additional_names": [],
@@ -169494,6 +171033,15 @@
     "musashi.ac.jp": {
       "name": "Musashi University",
       "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "kic.ac.jp": {
+      "name": "神戸情報大学院大学",
+      "additional_names": [
+        "Kobe Institute of Computing / Graduate School of Information Technology"
+      ],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -169717,6 +171265,15 @@
       "verified": true,
       "is_abused": false
     },
+    "nucba.ac.jp": {
+      "name": "NUCB business school",
+      "additional_names": [
+        "NUCB business school"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "muroran-it.ac.jp": {
       "name": "Muroran Institute of Technology",
       "additional_names": [],
@@ -169727,6 +171284,15 @@
     "ashitech.ac.jp": {
       "name": "Ashikaga Institute of Technology",
       "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "hiroshima-cmt.ac.jp": {
+      "name": "広島商船高等専門学校",
+      "additional_names": [
+        "National Institute of Technology, Hiroshima College"
+      ],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -169962,6 +171528,15 @@
     "koriyama-kgc.ac.jp": {
       "name": "Koriyama Women's University and College",
       "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "kuas.ac.jp": {
+      "name": "京都先端科学大学 Kyōto sentan kagaku daigaku",
+      "additional_names": [
+        "Kyoto University of Advanced Science"
+      ],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -170262,6 +171837,15 @@
       "verified": true,
       "is_abused": false
     },
+    "tcu.ac.jp": {
+      "name": "東京都市大学",
+      "additional_names": [
+        "Tokyo City University"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "bunka-wu.ac.jp": {
       "name": "Bunka Women's University",
       "additional_names": [],
@@ -170362,6 +171946,16 @@
       "verified": true,
       "is_abused": false
     },
+    "naist.ac.jp": {
+      "name": "奈良先端科学技術大学院大学",
+      "additional_names": [
+        "Nara Institute of Science and Technology",
+        "https://www.naist.jp/en/"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "meiji-u.ac.jp": {
       "name": "Meiji University of Oriental Medicine",
       "additional_names": [],
@@ -170392,6 +171986,13 @@
     },
     "jissen.ac.jp": {
       "name": "Jissen Women's University",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "kanagawa-u.ac.jp": {
+      "name": "Kanagawa University",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -170467,6 +172068,13 @@
       "verified": true,
       "is_abused": false
     },
+    "gn.iwasaki.ac.jp": {
+      "name": "学校法人岩崎学園 情報科学専門学校",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "al.tiu.ac.jp": {
       "name": "Tokyo International University",
       "additional_names": [
@@ -170501,6 +172109,15 @@
       "verified": true,
       "is_abused": false
     },
+    "edu.fca.ac.jp": {
+      "name": "福岡デザイン&テクノロジー専門学校",
+      "additional_names": [
+        "College of Design & Technology Fukuoka"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "vc.ibaraki.ac.jp": {
       "name": "IBARAKI UNIVERSITY",
       "additional_names": [
@@ -170519,6 +172136,22 @@
       "verified": true,
       "is_abused": false
     },
+    "edu.tuis.ac.jp": {
+      "name": "東京情報大学",
+      "additional_names": [
+        "Tokyo University of Information Sciences"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "is.tohoku-mpu.ac.jp": {
+      "name": "東北医科薬科大学",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "y.seijo.ac.jp": {
       "name": "Seijo University",
       "additional_names": [],
@@ -170530,6 +172163,24 @@
       "name": "成蹊大学",
       "additional_names": [
         "Seikei University"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "bbt.ohmae.ac.jp": {
+      "name": "ビジネス・ブレークスルー大学",
+      "additional_names": [
+        "BBT University"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "student.zen.ac.jp": {
+      "name": "ZEN大学",
+      "additional_names": [
+        "ZEN University"
       ],
       "is_group": false,
       "verified": true,
@@ -170590,6 +172241,22 @@
       "verified": true,
       "is_abused": false
     },
+    "ed.ritsumei.ac.jp": {
+      "name": "立命館大学",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "st.yamagata-u.ac.jp": {
+      "name": "山形大学",
+      "additional_names": [
+        "Yamagata University"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "edu.wasedasaga.jp": {
       "name": "早稲田佐賀中学校・高等学校",
       "additional_names": [
@@ -170615,6 +172282,13 @@
     },
     "spec.ed.jp": {
       "name": "Saitama Prefecture Schools",
+      "additional_names": [],
+      "is_group": true,
+      "verified": true,
+      "is_abused": false
+    },
+    "metro.ed.jp": {
+      "name": "Tokyo Metropolitan Schools",
       "additional_names": [],
       "is_group": true,
       "verified": true,
@@ -170711,6 +172385,13 @@
       "additional_names": [
         "National Institute of Technology (Kosen), Oyama College"
       ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "tsuruoka.kosen-ac.jp": {
+      "name": "鶴岡工業高等専門学校",
+      "additional_names": [],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -171698,6 +173379,13 @@
       "verified": true,
       "is_abused": false
     },
+    "themico.edu.jm": {
+      "name": "The Mico University College",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "mymbcc.edu.jm": {
       "name": "Montego Bay Community College",
       "additional_names": [],
@@ -171707,6 +173395,13 @@
     },
     "uwimona.edu.jm": {
       "name": "University of the West Indies, Mona",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "btcc.edu.jm": {
+      "name": "Browns Town Community College",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -173913,19 +175608,19 @@
       "verified": true,
       "is_abused": false
     },
-    "monofeya1.moe.edu.eg": {
-      "name": "مدرسة أشمون الرسمية للغات",
+    "ismailia1.moe.edu.eg": {
+      "name": "عباس محمود العقاد الأبتدائية",
       "additional_names": [
-        "Ashmoun Official Language School"
+        "Abbas Mahmoud El Akkad Primary School"
       ],
       "is_group": false,
       "verified": true,
       "is_abused": false
     },
-    "g102019.moe.edu.eg": {
-      "name": "Egyptian Ministry of Education - ابو زعيل الثانوية المشتركة",
+    "monofeya1.moe.edu.eg": {
+      "name": "مدرسة أشمون الرسمية للغات",
       "additional_names": [
-        "Egyptian Ministry of Education - ابو زعيل الثانوية المشتركة"
+        "Ashmoun Official Language School"
       ],
       "is_group": false,
       "verified": true,
@@ -176017,6 +177712,13 @@
       "verified": true,
       "is_abused": false
     },
+    "ipss.cl": {
+      "name": "Instituto profesional San Sebastián",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "ucinf.cl": {
       "name": "Universidad de Ciencias de la Informatica",
       "additional_names": [],
@@ -176029,7 +177731,7 @@
       "additional_names": [],
       "is_group": false,
       "verified": true,
-      "is_abused": false
+      "is_abused": true
     },
     "upa.cl": {
       "name": "Universidad de Playa Ancha de Ciencias de la Educacion",
@@ -176631,6 +178333,13 @@
       "verified": true,
       "is_abused": false
     },
+    "sua.ac.tz": {
+      "name": "Sokoine University of Agriculture",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "uoi.ac.tz": {
       "name": "University of Iringa",
       "additional_names": [
@@ -176650,6 +178359,15 @@
     "muchs.ac.tz": {
       "name": "Muhimbili University of Health and Allied Sciences (MUHAS)",
       "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "ipa.ac.tz": {
+      "name": "Chuo cha Utawala wa Umma, Zanzibar",
+      "additional_names": [
+        "INSTITUTE OF PUBLIC ADMINISTRATION"
+      ],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -176715,6 +178433,13 @@
       "additional_names": [
         "Nelson Mandela African Institution of Science and Technology"
       ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "must.ac.tz": {
+      "name": "Mbeya Univesity Of Science and Technology",
+      "additional_names": [],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -177710,13 +179435,6 @@
     },
     "bcisphuket.ac.th": {
       "name": "BCIS Phuket International School",
-      "additional_names": [],
-      "is_group": false,
-      "verified": true,
-      "is_abused": false
-    },
-    "swu.ac.th": {
-      "name": "Srinakharinwirot University",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -178921,6 +180639,13 @@
       "verified": true,
       "is_abused": false
     },
+    "fundacionmontessori.com": {
+      "name": "Colegio Montessori Zaragoza",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "st-laurence.com": {
       "name": "St-Laurence School",
       "additional_names": [],
@@ -179067,6 +180792,13 @@
     },
     "andalusiaquranicschool.com": {
       "name": "Andalusia Quranic School",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "lpsschool.com": {
+      "name": "Lovely Public Senior Secondary School",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -179546,6 +181278,13 @@
     },
     "doonschool.com": {
       "name": "The Doon School",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "morrisonsislandcampus.com": {
+      "name": "Cork College of FET",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -180241,6 +181980,13 @@
       "verified": true,
       "is_abused": false
     },
+    "subodhpgcollege.com": {
+      "name": "SS Jain Subodh PG College",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "salesianosdosa.com": {
       "name": "Salesianos Domingo Savio Madrid",
       "additional_names": [
@@ -180370,6 +182116,13 @@
       "name": "Institut Africain de Management, Burkina Faso",
       "additional_names": [],
       "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "aisl-edu.com": {
+      "name": "Asia International School Limited",
+      "additional_names": [],
+      "is_group": true,
       "verified": true,
       "is_abused": false
     },
@@ -180906,6 +182659,15 @@
     "ifnti.com": {
       "name": "Institut de Formation aux Normes et Technologies de l'informatique",
       "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "zxxyedu.com": {
+      "name": "郑州信息工程职业学院",
+      "additional_names": [
+        "Zhengzhou Information Engineering Vocational College"
+      ],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -181924,6 +183686,13 @@
       "additional_names": [
         "Escuela de Estudios Profesionales iGroup"
       ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "aryainstitutejpr.com": {
+      "name": "Arya Institute Of Engineering & Technology",
+      "additional_names": [],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -182956,6 +184725,13 @@
       "verified": true,
       "is_abused": false
     },
+    "keyinstitute.com": {
+      "name": "Instituto Especializado de Nivel Superior Kriete de Ingeniería y Ciencias",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "lycee-ndduroc.com": {
       "name": "Lycée Notre Dame du Roc",
       "additional_names": [
@@ -183300,6 +185076,15 @@
     "breyerstate.com": {
       "name": "Breyer State University (Virtual University)",
       "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "stu-mba-esg.com": {
+      "name": "MBA ESG",
+      "additional_names": [
+        "MBA ESG"
+      ],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -183754,6 +185539,13 @@
     },
     "stjomaristes.com": {
       "name": "Saint Joseph les Maristes",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "shesfunschools.com": {
+      "name": "Shesfun Schools",
       "additional_names": [],
       "is_group": false,
       "verified": true,
@@ -184216,6 +186008,13 @@
       "verified": true,
       "is_abused": false
     },
+    "lilavatibaipodarschool.com": {
+      "name": "Lilavatibai Podar High School",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "shannoncollege.com": {
       "name": "Shannon College of Hotel Management",
       "additional_names": [],
@@ -184619,6 +186418,15 @@
       "verified": true,
       "is_abused": false
     },
+    "mbclmbes.onmicrosoft.com": {
+      "name": "Mahatma Basweshwar College Latur",
+      "additional_names": [
+        "Mahatma Basweshwar College Latur"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "uvmx.onmicrosoft.com": {
       "name": "Universidad Veracruzana",
       "additional_names": [],
@@ -184716,6 +186524,13 @@
       "additional_names": [
         "STEP ACADEMY"
       ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "sp358warszawa.onmicrosoft.com": {
+      "name": "Szkoła Podstawowa nr 358 im. hetmana Jana Zamoyskiego",
+      "additional_names": [],
       "is_group": false,
       "verified": true,
       "is_abused": false
@@ -185296,6 +187111,13 @@
       "verified": true,
       "is_abused": false
     },
+    "gsgd.onmicrosoft.com": {
+      "name": "Gewerbliche Schule Schwäbisch Gmünd",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "emineornekkoleji.onmicrosoft.com": {
       "name": "Emine Örnek Koleji",
       "additional_names": [
@@ -185691,6 +187513,13 @@
       "verified": true,
       "is_abused": false
     },
+    "student.42beirut.com": {
+      "name": "42 Beirut",
+      "additional_names": [],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
     "alu.cipfpvalledeelda.com": {
       "name": "CIPFP Valle de Elda",
       "additional_names": [],
@@ -185910,6 +187739,13 @@
         "H-Farm International School"
       ],
       "is_group": true,
+      "verified": true,
+      "is_abused": false
+    },
+    "alu.fpsanantonio.com": {
+      "name": "Universidad Católica San Antonio de Murcia",
+      "additional_names": [],
+      "is_group": false,
       "verified": true,
       "is_abused": false
     },
@@ -187103,15 +188939,6 @@
       "verified": true,
       "is_abused": false
     },
-    "galata.edu.tr": {
-      "name": "İstanbul Galata Üniversitesi",
-      "additional_names": [
-        "İstanbul Galata University"
-      ],
-      "is_group": false,
-      "verified": true,
-      "is_abused": false
-    },
     "yildiz.edu.tr": {
       "name": "Yıldız Teknik Üniversitesi",
       "additional_names": [
@@ -187880,6 +189707,15 @@
       "name": "İstanbul Medeniyet Üniversitesi",
       "additional_names": [
         "Istanbul Medeniyet University"
+      ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "mcbu.edu.tr": {
+      "name": "Manisa Celal Bayar University",
+      "additional_names": [
+        "Manisa Celal Bayar Üniversitesi, Türkiye"
       ],
       "is_group": false,
       "verified": true,
@@ -189087,6 +190923,13 @@
       "additional_names": [
         "Monastir Preparatory Engineering Institute"
       ],
+      "is_group": false,
+      "verified": true,
+      "is_abused": false
+    },
+    "ismmm.u-monastir.tn": {
+      "name": "Institut Supérieur d'Informatique et de Mathématique de Monastir",
+      "additional_names": [],
       "is_group": false,
       "verified": true,
       "is_abused": false

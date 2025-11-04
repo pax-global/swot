@@ -14,25 +14,25 @@ This repository contains a curated list of educational email domains from univer
 
 | Metric | Count |
 |--------|-------|
-| 🏫 **Total Domains** | **25,131** |
-| 🚫 **Flagged/Abused** | **108** |
-| 👥 **Group Domains** | **174** |
+| 🏫 **Total Domains** | **25,369** |
+| 🚫 **Flagged/Abused** | **115** |
+| 👥 **Group Domains** | **180** |
 | 🇷🇴 **Romania (.ro)** | **206** |
 
 ### 🌍 Top Educational TLDs
 
 | TLD | Domains |
 |-----|---------|
-| `.edu` | **2,617** |
-| `.org` | **1,558** |
-| `.de` | **1,357** |
-| `.com` | **1,008** |
-| `.uk` | **924** |
-| `.br` | **918** |
+| `.edu` | **2,641** |
+| `.org` | **1,570** |
+| `.de` | **1,369** |
+| `.com` | **1,024** |
+| `.uk` | **930** |
+| `.br` | **924** |
+| `.in` | **754** |
 | `.ru` | **691** |
-| `.in` | **687** |
-| `.fr` | **671** |
-| `.id` | **641** |
+| `.fr` | **676** |
+| `.id` | **644** |
 ## 📋 Domain Structure
 
 Each domain entry contains detailed information:
@@ -67,6 +67,9 @@ Each domain entry contains detailed information:
 ## 🔄 Updates
 
 This repository is automatically updated on the 1st day of each month at 7:00 AM Romanian time (EET/EEST).
+
+
+
 
 
 
