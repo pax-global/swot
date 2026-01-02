@@ -1,6 +1,6 @@
 # 🎓 Educational Email Domain Validator
 
-A comprehensive JSON database of **23k+** educational institution domains for validating academic email addresses worldwide.
+A comprehensive JSON database of **25k+** educational institution domains for validating academic email addresses worldwide.
 
 ## 📊 Overview
 
@@ -14,25 +14,26 @@ This repository contains a curated list of educational email domains from univer
 
 | Metric | Count |
 |--------|-------|
-| 🏫 **Total Domains** | **23,445** |
+| 🏫 **Total Domains** | **25,739** |
 | 🚫 **Flagged/Abused** | **100** |
 | 👥 **Group Domains** | **172** |
-| 🇷🇴 **Romania (.ro)** | **206** |
+| 🇷🇴 **Romania (.ro)** | **216** |
 
 ### 🌍 Top Educational TLDs
 
 | TLD | Domains |
 |-----|---------|
-| `.org` | **1,576** |
-| `.de` | **1,376** |
-| `.com` | **1,029** |
-| `.uk` | **933** |
-| `.br` | **925** |
-| `.in` | **797** |
-| `.ru` | **691** |
-| `.fr` | **679** |
-| `.pl` | **648** |
-| `.id` | **645** |
+| `.edu` | **2,671** |
+| `.org` | **1,586** |
+| `.de` | **1,388** |
+| `.com` | **1,041** |
+| `.uk` | **941** |
+| `.br` | **924** |
+| `.in` | **840** |
+| `.ru` | **692** |
+| `.fr` | **681** |
+| `.id` | **652** |
+
 ## 📋 Domain Structure
 
 Each domain entry contains detailed information:
