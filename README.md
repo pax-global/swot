@@ -68,6 +68,7 @@ Each domain entry contains detailed information:
 ## 🔄 Updates
 
 This repository is automatically updated on the 1st day of each month around 7:00 AM or 8:00 AM Romanian time (Dorel sometimes wakes up late; aka winter/summer time).
+Latest data is also reflected in the README.
 
 
 
