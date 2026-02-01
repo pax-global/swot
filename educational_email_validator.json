@@ -104,6 +104,13 @@
         "verified": true,
         "is_abused": false
     },
+    "student.eldermoraes.ai": {
+        "name": "Student",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "univ-nkc.mr": {
         "name": "Univ-nkc",
         "additional_names": [],
@@ -853,15 +860,15 @@
         "verified": true,
         "is_abused": false
     },
-    "vcomsats.edu.pk": {
-        "name": "Vcomsats",
+    "bic.edu.pk": {
+        "name": "Bic",
         "additional_names": [],
         "is_group": false,
         "verified": true,
         "is_abused": false
     },
-    "lums.edu.pk": {
-        "name": "Lums",
+    "vcomsats.edu.pk": {
+        "name": "Vcomsats",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -1415,6 +1422,13 @@
     },
     "uaar.edu.pk": {
         "name": "Uaar",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "das.edu.pk": {
+        "name": "Das",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -3058,6 +3072,13 @@
         "verified": true,
         "is_abused": false
     },
+    "edu.stockholm.se": {
+        "name": "Edu",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "gafe.molndal.se": {
         "name": "Gafe",
         "additional_names": [],
@@ -3480,6 +3501,13 @@
     },
     "ut.ee": {
         "name": "Ut",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "tlvl.ee": {
+        "name": "Tlvl",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -5137,6 +5165,13 @@
         "verified": true,
         "is_abused": false
     },
+    "students.kalaidos-fh.ch": {
+        "name": "Students",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "stud.bms-zuerich.ch": {
         "name": "Stud",
         "additional_names": [],
@@ -5342,6 +5377,13 @@
     },
     "dypic.in": {
         "name": "Dypic",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "dbuumail.in": {
+        "name": "Dbuumail",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -5664,6 +5706,13 @@
     },
     "tcetmumbai.in": {
         "name": "Tcetmumbai",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "pgdavcollege.in": {
+        "name": "Pgdavcollege",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -6649,6 +6698,13 @@
         "verified": true,
         "is_abused": false
     },
+    "sigce.edu.in": {
+        "name": "Sigce",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "uok.edu.in": {
         "name": "Uok",
         "additional_names": [],
@@ -6763,6 +6819,13 @@
     },
     "ldc.edu.in": {
         "name": "Ldc",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "tistcochin.edu.in": {
+        "name": "Tistcochin",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -7090,6 +7153,13 @@
         "verified": true,
         "is_abused": false
     },
+    "SBUP.edu.in": {
+        "name": "Sbup",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "haps.edu.in": {
         "name": "Haps",
         "additional_names": [],
@@ -7099,6 +7169,13 @@
     },
     "hkbk.edu.in": {
         "name": "Hkbk",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "sbup.edu.in": {
+        "name": "Sbup",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -7232,6 +7309,13 @@
     },
     "nbs.edu.in": {
         "name": "Nbs",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "its.edu.in": {
+        "name": "Its",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -7384,13 +7468,6 @@
         "verified": true,
         "is_abused": false
     },
-    "karnavatiuniversity.edu.in": {
-        "name": "Karnavatiuniversity",
-        "additional_names": [],
-        "is_group": false,
-        "verified": true,
-        "is_abused": false
-    },
     "medhaviskillsuniversity.edu.in": {
         "name": "Medhaviskillsuniversity",
         "additional_names": [],
@@ -7456,6 +7533,13 @@
     },
     "srmist.edu.in": {
         "name": "Srmist",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "abit.edu.in": {
+        "name": "Abit",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -7587,6 +7671,13 @@
         "verified": true,
         "is_abused": false
     },
+    "ptuniv.edu.in": {
+        "name": "Ptuniv",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "adypu.edu.in": {
         "name": "Adypu",
         "additional_names": [],
@@ -7645,6 +7736,13 @@
     },
     "cvmu.edu.in": {
         "name": "Cvmu",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "moderncoe.edu.in": {
+        "name": "Moderncoe",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -7818,6 +7916,13 @@
         "verified": true,
         "is_abused": false
     },
+    "mvjce.edu.in": {
+        "name": "Mvjce",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "kccitm.edu.in": {
         "name": "Kccitm",
         "additional_names": [],
@@ -7909,6 +8014,13 @@
         "verified": true,
         "is_abused": false
     },
+    "greatlakes.edu.in": {
+        "name": "Greatlakes",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "sru.edu.in": {
         "name": "Sru",
         "additional_names": [],
@@ -7974,6 +8086,13 @@
     },
     "christnagarpublicschool.edu.in": {
         "name": "Christnagarpublicschool",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "siet.edu.in": {
+        "name": "Siet",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -8049,8 +8168,22 @@
         "verified": true,
         "is_abused": false
     },
+    "cse.tict.edu.in": {
+        "name": "Cse",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "smit.smu.edu.in": {
         "name": "Smit",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "student.nitte.edu.in": {
+        "name": "Student",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -8170,6 +8303,13 @@
     },
     "gst.sies.edu.in": {
         "name": "Gst",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "student.sssihl.edu.in": {
+        "name": "Student",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -8532,6 +8672,13 @@
         "verified": true,
         "is_abused": false
     },
+    "udml.ac.in": {
+        "name": "Udml",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "uck.ac.in": {
         "name": "Uck",
         "additional_names": [],
@@ -8541,6 +8688,13 @@
     },
     "psgtech.ac.in": {
         "name": "Psgtech",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "dbcegoa.ac.in": {
+        "name": "Dbcegoa",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -8700,6 +8854,13 @@
         "verified": true,
         "is_abused": false
     },
+    "jaypeeu.ac.in": {
+        "name": "Jaypeeu",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "iiserb.ac.in": {
         "name": "Iiserb",
         "additional_names": [],
@@ -8716,6 +8877,13 @@
     },
     "gtbit.ac.in": {
         "name": "Gtbit",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "mkce.ac.in": {
+        "name": "Mkce",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -8765,6 +8933,20 @@
     },
     "rtu.ac.in": {
         "name": "Rtu",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "nituk.ac.in": {
+        "name": "Nituk",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "srishakthi.ac.in": {
+        "name": "Srishakthi",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -8842,6 +9024,13 @@
     },
     "gectcr.ac.in": {
         "name": "Gectcr",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "thdcihet.ac.in": {
+        "name": "Thdcihet",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -9001,6 +9190,13 @@
         "verified": true,
         "is_abused": false
     },
+    "kletech.ac.in": {
+        "name": "Kletech",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "dypiemr.ac.in": {
         "name": "Dypiemr",
         "additional_names": [],
@@ -9073,6 +9269,13 @@
     },
     "nitw.ac.in": {
         "name": "Nitw",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "gec.ac.in": {
+        "name": "Gec",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -9241,6 +9444,13 @@
     },
     "mait.ac.in": {
         "name": "Mait",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "trident.ac.in": {
+        "name": "Trident",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -9540,13 +9750,6 @@
         "verified": true,
         "is_abused": false
     },
-    "mrcet.ac.in": {
-        "name": "Mrcet",
-        "additional_names": [],
-        "is_group": false,
-        "verified": true,
-        "is_abused": false
-    },
     "ietlucknow.ac.in": {
         "name": "Ietlucknow",
         "additional_names": [],
@@ -9708,6 +9911,13 @@
         "verified": true,
         "is_abused": false
     },
+    "svitvasad.ac.in": {
+        "name": "Svitvasad",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "saec.ac.in": {
         "name": "Saec",
         "additional_names": [],
@@ -9745,6 +9955,13 @@
     },
     "stthomascollege.ac.in": {
         "name": "Stthomascollege",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "uit.ac.in": {
+        "name": "Uit",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -9815,6 +10032,13 @@
     },
     "skuastkashmir.ac.in": {
         "name": "Skuastkashmir",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "imsec.ac.in": {
+        "name": "Imsec",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -9918,6 +10142,13 @@
         "verified": true,
         "is_abused": false
     },
+    "nsec.ac.in": {
+        "name": "Nsec",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "pmec.ac.in": {
         "name": "Pmec",
         "additional_names": [],
@@ -10002,6 +10233,13 @@
         "verified": true,
         "is_abused": false
     },
+    "dypiu.ac.in": {
+        "name": "Dypiu",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "sit.ac.in": {
         "name": "Sit",
         "additional_names": [],
@@ -10018,6 +10256,13 @@
     },
     "mctrgit.ac.in": {
         "name": "Mctrgit",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "srmasc.ac.in": {
+        "name": "Srmasc",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -10086,6 +10331,13 @@
         "verified": true,
         "is_abused": false
     },
+    "jmit.ac.in": {
+        "name": "Jmit",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "iiitd.ac.in": {
         "name": "Iiitd",
         "additional_names": [],
@@ -10128,6 +10380,13 @@
         "verified": true,
         "is_abused": false
     },
+    "vistas.ac.in": {
+        "name": "Vistas",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "coeruniversity.ac.in": {
         "name": "Coeruniversity",
         "additional_names": [],
@@ -10151,6 +10410,13 @@
     },
     "mitvpu.ac.in": {
         "name": "Mitvpu",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "cuk.ac.in": {
+        "name": "Cuk",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -10221,6 +10487,13 @@
     },
     "mdi.ac.in": {
         "name": "Mdi",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "technoindiauniversity.ac.in": {
+        "name": "Technoindiauniversity",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -10354,6 +10627,13 @@
     },
     "continental.ac.in": {
         "name": "Continental",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "vgecg.ac.in": {
+        "name": "Vgecg",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -10618,6 +10898,13 @@
         "verified": true,
         "is_abused": false
     },
+    "jerusalemengg.ac.in": {
+        "name": "Jerusalemengg",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "iitm.ac.in": {
         "name": "Iitm",
         "additional_names": [],
@@ -10828,6 +11115,13 @@
         "verified": true,
         "is_abused": false
     },
+    "mallareddyuniversity.ac.in": {
+        "name": "Mallareddyuniversity",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "zhcet.ac.in": {
         "name": "Zhcet",
         "additional_names": [],
@@ -10870,13 +11164,6 @@
         "verified": true,
         "is_abused": false
     },
-    "aitsrajampet.ac.in": {
-        "name": "Aitsrajampet",
-        "additional_names": [],
-        "is_group": false,
-        "verified": true,
-        "is_abused": false
-    },
     "velsuniv.ac.in": {
         "name": "Velsuniv",
         "additional_names": [],
@@ -10912,6 +11199,13 @@
         "verified": true,
         "is_abused": false
     },
+    "dusol.ac.in": {
+        "name": "Dusol",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "jainuniversity.ac.in": {
         "name": "Jainuniversity",
         "additional_names": [],
@@ -10921,6 +11215,20 @@
     },
     "gecbh.ac.in": {
         "name": "Gecbh",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "dau.ac.in": {
+        "name": "Dau",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "francisxavier.ac.in": {
+        "name": "Francisxavier",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -10968,8 +11276,22 @@
         "verified": true,
         "is_abused": false
     },
+    "satyawatie.du.ac.in": {
+        "name": "Satyawatie",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "kmc.du.ac.in": {
         "name": "Kmc",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "mln.du.ac.in": {
+        "name": "Mln",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -10991,6 +11313,13 @@
     },
     "dsc.du.ac.in": {
         "name": "Dsc",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "ece.du.ac.in": {
+        "name": "Ece",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -11122,6 +11451,13 @@
         "verified": true,
         "is_abused": false
     },
+    "spt.pdpu.ac.in": {
+        "name": "Spt",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "cej.jntuh.ac.in": {
         "name": "Cej",
         "additional_names": [],
@@ -11201,6 +11537,13 @@
     },
     "ee.nits.ac.in": {
         "name": "Ee",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "students.sau.ac.in": {
+        "name": "Students",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -12165,6 +12508,13 @@
         "verified": true,
         "is_abused": false
     },
+    "irinyi-ref.hu": {
+        "name": "Irinyi-ref",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "semmelweis-univ.hu": {
         "name": "Semmelweis-univ",
         "additional_names": [],
@@ -12480,6 +12830,13 @@
         "verified": true,
         "is_abused": false
     },
+    "premontrei-zsambek.edu.hu": {
+        "name": "Premontrei-zsambek",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "zsoldos.edu.hu": {
         "name": "Zsoldos",
         "additional_names": [],
@@ -12622,6 +12979,13 @@
     },
     "nytud.mta.hu": {
         "name": "Nytud",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "diak.crnl.hu": {
+        "name": "Diak",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -14055,13 +14419,6 @@
         "verified": true,
         "is_abused": false
     },
-    "sman1kendal.sch.id": {
-        "name": "Sman1kendal",
-        "additional_names": [],
-        "is_group": false,
-        "verified": true,
-        "is_abused": false
-    },
     "smkn11malang.sch.id": {
         "name": "Smkn11malang",
         "additional_names": [],
@@ -14265,13 +14622,6 @@
         "verified": true,
         "is_abused": false
     },
-    "sman19bandung.sch.id": {
-        "name": "Sman19bandung",
-        "additional_names": [],
-        "is_group": false,
-        "verified": true,
-        "is_abused": false
-    },
     "mankotategal.sch.id": {
         "name": "Mankotategal",
         "additional_names": [],
@@ -14344,13 +14694,6 @@
     },
     "trust.smkn2malang.sch.id": {
         "name": "Trust",
-        "additional_names": [],
-        "is_group": false,
-        "verified": true,
-        "is_abused": false
-    },
-    "kemenag.go.id": {
-        "name": "Kemenag",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -14470,13 +14813,6 @@
     },
     "bunghatta.ac.id": {
         "name": "Bunghatta",
-        "additional_names": [],
-        "is_group": false,
-        "verified": true,
-        "is_abused": false
-    },
-    "undip.ac.id": {
-        "name": "Undip",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -15679,6 +16015,13 @@
         "verified": true,
         "is_abused": false
     },
+    "brawijaya.ac.id": {
+        "name": "Brawijaya",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "president.ac.id": {
         "name": "President",
         "additional_names": [],
@@ -15961,13 +16304,6 @@
     },
     "uwp.ac.id": {
         "name": "Uwp",
-        "additional_names": [],
-        "is_group": false,
-        "verified": true,
-        "is_abused": false
-    },
-    "unesa.ac.id": {
-        "name": "Unesa",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -18094,6 +18430,13 @@
         "verified": true,
         "is_abused": false
     },
+    "admiu.edu.az": {
+        "name": "Admiu",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "lsu.edu.az": {
         "name": "Lsu",
         "additional_names": [],
@@ -18103,6 +18446,20 @@
     },
     "ada.edu.az": {
         "name": "Ada",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "bhos.edu.az": {
+        "name": "Bhos",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "asoiu.edu.az": {
+        "name": "Asoiu",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -18143,6 +18500,13 @@
         "verified": true,
         "is_abused": false
     },
+    "kaspi.edu.az": {
+        "name": "Kaspi",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "wcu.edu.az": {
         "name": "Wcu",
         "additional_names": [],
@@ -18173,6 +18537,13 @@
     },
     "wu.edu.az": {
         "name": "Wu",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "video.edu.az": {
+        "name": "Video",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -19375,6 +19746,13 @@
         "verified": true,
         "is_abused": false
     },
+    "hc.university": {
+        "name": "Hc",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "atlasskilltech.university": {
         "name": "Atlasskilltech",
         "additional_names": [],
@@ -20236,6 +20614,13 @@
         "verified": true,
         "is_abused": false
     },
+    "hein-moeller.schule": {
+        "name": "Hein-moeller",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "sge.schule": {
         "name": "Sge",
         "additional_names": [],
@@ -20427,6 +20812,13 @@
     },
     "afs.gt.schule": {
         "name": "Afs",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "cecilien-gymnasium.nrw.schule": {
+        "name": "Cecilien-gymnasium",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -20999,6 +21391,13 @@
         "verified": true,
         "is_abused": false
     },
+    "zsz1ndm.pl": {
+        "name": "Zsz1ndm",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "domeyko.pl": {
         "name": "Domeyko",
         "additional_names": [],
@@ -21169,6 +21568,13 @@
     },
     "collegiumwitelona.pl": {
         "name": "Collegiumwitelona",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "zsgsucha.pl": {
+        "name": "Zsgsucha",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -22063,6 +22469,13 @@
         "verified": true,
         "is_abused": false
     },
+    "sp2.oborniki.pl": {
+        "name": "Sp2",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "office.mans.org.pl": {
         "name": "Office",
         "additional_names": [],
@@ -22359,6 +22772,13 @@
     },
     "3lo.edu.pl": {
         "name": "3lo",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "lo1mlawa.edu.pl": {
+        "name": "Lo1mlawa",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -25304,6 +25724,13 @@
         "verified": true,
         "is_abused": false
     },
+    "dinuoma.com.ua": {
+        "name": "Dinuoma",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "zap-construct.com.ua": {
         "name": "Zap-construct",
         "additional_names": [],
@@ -25822,13 +26249,6 @@
         "verified": true,
         "is_abused": false
     },
-    "ifnmu.edu.ua": {
-        "name": "Ifnmu",
-        "additional_names": [],
-        "is_group": false,
-        "verified": true,
-        "is_abused": false
-    },
     "lntu.edu.ua": {
         "name": "Lntu",
         "additional_names": [],
@@ -25894,6 +26314,13 @@
     },
     "kubg.edu.ua": {
         "name": "Kubg",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "cusu.edu.ua": {
+        "name": "Cusu",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -26368,6 +26795,13 @@
         "verified": true,
         "is_abused": false
     },
+    "kpdi.edu.ua": {
+        "name": "Kpdi",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "nung.edu.ua": {
         "name": "Nung",
         "additional_names": [],
@@ -26825,6 +27259,13 @@
     },
     "sfk.nau.edu.ua": {
         "name": "Sfk",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "it.onma.edu.ua": {
+        "name": "It",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -28685,6 +29126,13 @@
         "verified": true,
         "is_abused": false
     },
+    "itvitaelearning.nl": {
+        "name": "Itvitaelearning",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "rocmn.nl": {
         "name": "Rocmn",
         "additional_names": [],
@@ -29021,6 +29469,13 @@
         "verified": true,
         "is_abused": false
     },
+    "umcg.nl": {
+        "name": "Umcg",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "ade-buas.nl": {
         "name": "Ade-buas",
         "additional_names": [],
@@ -29163,6 +29618,13 @@
     },
     "greijdanus.nl": {
         "name": "Greijdanus",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "reacollege.nl": {
+        "name": "Reacollege",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -35986,13 +36448,6 @@
         "verified": true,
         "is_abused": false
     },
-    "ks.ac.kr": {
-        "name": "Ks",
-        "additional_names": [],
-        "is_group": false,
-        "verified": true,
-        "is_abused": false
-    },
     "police.ac.kr": {
         "name": "Police",
         "additional_names": [],
@@ -36504,13 +36959,6 @@
         "verified": true,
         "is_abused": false
     },
-    "mokpo.ac.kr": {
-        "name": "Mokpo",
-        "additional_names": [],
-        "is_group": false,
-        "verified": true,
-        "is_abused": false
-    },
     "kumoh.ac.kr": {
         "name": "Kumoh",
         "additional_names": [],
@@ -36618,13 +37066,6 @@
     },
     "dongeui.ac.kr": {
         "name": "Dongeui",
-        "additional_names": [],
-        "is_group": false,
-        "verified": true,
-        "is_abused": false
-    },
-    "puts.ac.kr": {
-        "name": "Puts",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -37687,6 +38128,13 @@
         "verified": true,
         "is_abused": false
     },
+    "phs.edu.jo": {
+        "name": "Phs",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "jpu.edu.jo": {
         "name": "Jpu",
         "additional_names": [],
@@ -37773,13 +38221,6 @@
     },
     "anu.edu.jo": {
         "name": "Anu",
-        "additional_names": [],
-        "is_group": false,
-        "verified": true,
-        "is_abused": false
-    },
-    "auct.edu.jo": {
-        "name": "Auct",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -38060,6 +38501,13 @@
     },
     "alkafeel.edu.iq": {
         "name": "Alkafeel",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "alnoor.edu.iq": {
+        "name": "Alnoor",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -38606,6 +39054,13 @@
     },
     "unq.edu.ar": {
         "name": "Unq",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "mermoz.edu.ar": {
+        "name": "Mermoz",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -39248,13 +39703,6 @@
         "verified": true,
         "is_abused": false
     },
-    "uai.edu.ar": {
-        "name": "Uai",
-        "additional_names": [],
-        "is_group": false,
-        "verified": true,
-        "is_abused": false
-    },
     "uvq.edu.ar": {
         "name": "Uvq",
         "additional_names": [],
@@ -39612,6 +40060,13 @@
         "verified": true,
         "is_abused": false
     },
+    "dmu.edu.et": {
+        "name": "Dmu",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "ju2.edu.et": {
         "name": "Ju2",
         "additional_names": [],
@@ -39677,6 +40132,13 @@
     },
     "wsu.edu.et": {
         "name": "Wsu",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "arsiun.edu.et": {
+        "name": "Arsiun",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -39782,6 +40244,13 @@
     },
     "istcarloscisneros.edu.ec": {
         "name": "Istcarloscisneros",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "uaw.edu.ec": {
+        "name": "Uaw",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -40501,6 +40970,13 @@
         "verified": true,
         "is_abused": false
     },
+    "btia.edu.rs": {
+        "name": "Btia",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "politehnika.edu.rs": {
         "name": "Politehnika",
         "additional_names": [],
@@ -40914,8 +41390,29 @@
         "verified": true,
         "is_abused": false
     },
+    "unionnikolatesla.ac.rs": {
+        "name": "Unionnikolatesla",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "vts.su.ac.rs": {
         "name": "Vts",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "stu.unionnikolatesla.ac.rs": {
+        "name": "Stu",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "teacher.unionnikolatesla.ac.rs": {
+        "name": "Teacher",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -42860,6 +43357,13 @@
         "verified": true,
         "is_abused": false
     },
+    "liceulracovita.ro": {
+        "name": "Liceulracovita",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "go.ibsb.ro": {
         "name": "Go",
         "additional_names": [],
@@ -43784,6 +44288,13 @@
         "verified": true,
         "is_abused": false
     },
+    "edu-its.it": {
+        "name": "Edu-its",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "unipv.it": {
         "name": "Unipv",
         "additional_names": [],
@@ -43940,6 +44451,13 @@
     },
     "istitutopilati.it": {
         "name": "Istitutopilati",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "abacatania.it": {
+        "name": "Abacatania",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -44660,6 +45178,13 @@
         "is_abused": false
     },
     "studenti.abana.it": {
+        "name": "Studenti",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "studenti.liceodini.it": {
         "name": "Studenti",
         "additional_names": [],
         "is_group": false,
@@ -45408,13 +45933,6 @@
         "verified": true,
         "is_abused": false
     },
-    "itisdalmine.edu.it": {
-        "name": "Itisdalmine",
-        "additional_names": [],
-        "is_group": false,
-        "verified": true,
-        "is_abused": false
-    },
     "archimede.edu.it": {
         "name": "Archimede",
         "additional_names": [],
@@ -45926,6 +46444,13 @@
         "verified": true,
         "is_abused": false
     },
+    "viacopernico.edu.it": {
+        "name": "Viacopernico",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "isisvarchi.edu.it": {
         "name": "Isisvarchi",
         "additional_names": [],
@@ -45963,6 +46488,13 @@
     },
     "iislagrange.edu.it": {
         "name": "Iislagrange",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "iisomodeo.edu.it": {
+        "name": "Iisomodeo",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -46773,6 +47305,13 @@
         "verified": true,
         "is_abused": false
     },
+    "college-narxoz.kz": {
+        "name": "College-narxoz",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "tau-edu.kz": {
         "name": "Tau-edu",
         "additional_names": [],
@@ -47111,13 +47650,6 @@
     },
     "elev.mariehamn.ax": {
         "name": "Elev",
-        "additional_names": [],
-        "is_group": false,
-        "verified": true,
-        "is_abused": false
-    },
-    "actc.center": {
-        "name": "Actc",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -50665,6 +51197,13 @@
         "verified": true,
         "is_abused": false
     },
+    "ishcmc.edu.vn": {
+        "name": "Ishcmc",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "kgmc.edu.vn": {
         "name": "Kgmc",
         "additional_names": [],
@@ -51750,6 +52289,13 @@
         "verified": true,
         "is_abused": false
     },
+    "dis.edu.vn": {
+        "name": "Dis",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "rdi.edu.vn": {
         "name": "Rdi",
         "additional_names": [],
@@ -52032,6 +52578,13 @@
     },
     "spkt.edu.vn": {
         "name": "Spkt",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "tieuhocnghiahiep.edu.vn": {
+        "name": "Tieuhocnghiahiep",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -52781,13 +53334,6 @@
     },
     "student.tdtu.edu.vn": {
         "name": "Student",
-        "additional_names": [],
-        "is_group": false,
-        "verified": true,
-        "is_abused": false
-    },
-    "st.cmcu.edu.vn": {
-        "name": "St",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -53880,6 +54426,13 @@
     },
     "utn.ac.cr": {
         "name": "Utn",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "student.invenio.ac.cr": {
+        "name": "Student",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -56678,6 +57231,13 @@
         "verified": true,
         "is_abused": false
     },
+    "grovesmuehle.eu": {
+        "name": "Grovesmuehle",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "obs-sottrum.eu": {
         "name": "Obs-sottrum",
         "additional_names": [],
@@ -56827,6 +57387,13 @@
     },
     "imt-bs.eu": {
         "name": "Imt-bs",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "schueler-grovesmuehle.eu": {
+        "name": "Schueler-grovesmuehle",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -57525,6 +58092,13 @@
         "verified": true,
         "is_abused": false
     },
+    "eu.grovesmuehle.eu": {
+        "name": "Eu",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "student.handlowa.eu": {
         "name": "Student",
         "additional_names": [],
@@ -57555,6 +58129,13 @@
     },
     "uitm.edu.eu": {
         "name": "Uitm",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "sp4.legnica.eu": {
+        "name": "Sp4",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -59191,13 +59772,6 @@
         "verified": true,
         "is_abused": false
     },
-    "mbitschool.com": {
-        "name": "Mbitschool",
-        "additional_names": [],
-        "is_group": false,
-        "verified": true,
-        "is_abused": false
-    },
     "isartdigital.com": {
         "name": "Isartdigital",
         "additional_names": [],
@@ -60670,6 +61244,13 @@
     },
     "iesruizgijon.com": {
         "name": "Iesruizgijon",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "hiroogakuen.com": {
+        "name": "Hiroogakuen",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -63216,6 +63797,13 @@
         "verified": true,
         "is_abused": false
     },
+    "coquitlamcollege.com": {
+        "name": "Coquitlamcollege",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "itismeucci.com": {
         "name": "Itismeucci",
         "additional_names": [],
@@ -63323,6 +63911,13 @@
     },
     "burntwoodschool.com": {
         "name": "Burntwoodschool",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "bergensskolen.com": {
+        "name": "Bergensskolen",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -63638,6 +64233,13 @@
     },
     "madisonu.com": {
         "name": "Madisonu",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "velammalbodhicampus.com": {
+        "name": "Velammalbodhicampus",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -64791,6 +65393,13 @@
         "verified": true,
         "is_abused": false
     },
+    "8lokatowice.onmicrosoft.com": {
+        "name": "8lokatowice",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "sp1wegrow.onmicrosoft.com": {
         "name": "Sp1wegrow",
         "additional_names": [],
@@ -65234,6 +65843,13 @@
     },
     "lbiro.onmicrosoft.com": {
         "name": "Lbiro",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "velammalbodhikolap.onmicrosoft.com": {
+        "name": "Velammalbodhikolap",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -66646,6 +67262,13 @@
         "verified": true,
         "is_abused": false
     },
+    "amityuniversity.ae": {
+        "name": "Amityuniversity",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "cranleigh.ae": {
         "name": "Cranleigh",
         "additional_names": [],
@@ -66697,6 +67320,13 @@
     },
     "skylineuniversity.ac.ae": {
         "name": "Skylineuniversity",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "fchs.ac.ae": {
+        "name": "Fchs",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -66758,8 +67388,22 @@
         "verified": true,
         "is_abused": false
     },
+    "mvu.ac.ae": {
+        "name": "Mvu",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "cu.ac.ae": {
         "name": "Cu",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "cud.ac.ae": {
+        "name": "Cud",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -66774,6 +67418,13 @@
     },
     "aurak.ac.ae": {
         "name": "Aurak",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "ajmanuni.ac.ae": {
+        "name": "Ajmanuni",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -66821,6 +67472,13 @@
         "verified": true,
         "is_abused": false
     },
+    "adsm.ac.ae": {
+        "name": "Adsm",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "adveti.ac.ae": {
         "name": "Adveti",
         "additional_names": [],
@@ -66856,6 +67514,13 @@
         "verified": true,
         "is_abused": false
     },
+    "uaeu.ac.ae": {
+        "name": "Uaeu",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "alainuniversity.ac.ae": {
         "name": "Alainuniversity",
         "additional_names": [],
@@ -66872,6 +67537,13 @@
     },
     "ud.ac.ae": {
         "name": "Ud",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "ecae.ac.ae": {
+        "name": "Ecae",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -66963,13 +67635,6 @@
     },
     "cucv.edu.gt": {
         "name": "Cucv",
-        "additional_names": [],
-        "is_group": false,
-        "verified": true,
-        "is_abused": false
-    },
-    "upana.edu.gt": {
-        "name": "Upana",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -70923,6 +71588,13 @@
         "verified": true,
         "is_abused": false
     },
+    "him.cas.cn": {
+        "name": "Him",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "amss.ac.cn": {
         "name": "Amss",
         "additional_names": [],
@@ -71051,6 +71723,13 @@
     },
     "nssc.ac.cn": {
         "name": "Nssc",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "xao.ac.cn": {
+        "name": "Xao",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -71716,6 +72395,13 @@
     },
     "cdcfe.ie": {
         "name": "Cdcfe",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "dcfe.ie": {
+        "name": "Dcfe",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -73674,6 +74360,13 @@
         "verified": true,
         "is_abused": false
     },
+    "ppua.edu.kh": {
+        "name": "Ppua",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "iu.edu.kh": {
         "name": "Iu",
         "additional_names": [],
@@ -74290,13 +74983,6 @@
         "verified": true,
         "is_abused": false
     },
-    "open.ac.mu": {
-        "name": "Open",
-        "additional_names": [],
-        "is_group": false,
-        "verified": true,
-        "is_abused": false
-    },
     "utm.ac.mu": {
         "name": "Utm",
         "additional_names": [],
@@ -74341,6 +75027,13 @@
     },
     "amoud.edu.so": {
         "name": "Amoud",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "jazeerauniversity.edu.so": {
+        "name": "Jazeerauniversity",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -77657,6 +78350,13 @@
         "verified": true,
         "is_abused": false
     },
+    "cate.org": {
+        "name": "Cate",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "mwschool.org": {
         "name": "Mwschool",
         "additional_names": [],
@@ -78562,6 +79262,13 @@
     },
     "park6.org": {
         "name": "Park6",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "dekalbschoolsga.org": {
+        "name": "Dekalbschoolsga",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -83152,6 +83859,13 @@
         "verified": true,
         "is_abused": false
     },
+    "classicschool.org": {
+        "name": "Classicschool",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "hazlet.org": {
         "name": "Hazlet",
         "additional_names": [],
@@ -85693,13 +86407,6 @@
         "verified": true,
         "is_abused": false
     },
-    "wlcormoc.edu.ph": {
-        "name": "Wlcormoc",
-        "additional_names": [],
-        "is_group": false,
-        "verified": true,
-        "is_abused": false
-    },
     "dhvsu.edu.ph": {
         "name": "Dhvsu",
         "additional_names": [],
@@ -86197,6 +86904,13 @@
         "verified": true,
         "is_abused": false
     },
+    "gsu.edu.ph": {
+        "name": "Gsu",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "ceu.edu.ph": {
         "name": "Ceu",
         "additional_names": [],
@@ -86304,6 +87018,13 @@
     },
     "cit.edu.ph": {
         "name": "Cit",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "naap.edu.ph": {
+        "name": "Naap",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -86484,6 +87205,13 @@
         "verified": true,
         "is_abused": false
     },
+    "clsu2.edu.ph": {
+        "name": "Clsu2",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "scha.edu.ph": {
         "name": "Scha",
         "additional_names": [],
@@ -86549,13 +87277,6 @@
     },
     "feu.edu.ph": {
         "name": "Feu",
-        "additional_names": [],
-        "is_group": false,
-        "verified": true,
-        "is_abused": false
-    },
-    "udm.edu.ph": {
-        "name": "Udm",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -87088,6 +87809,13 @@
     },
     "mmdc.mcl.edu.ph": {
         "name": "Mmdc",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "gensan.sti.edu.ph": {
+        "name": "Gensan",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -88661,6 +89389,13 @@
         "verified": true,
         "is_abused": false
     },
+    "newmanu.edu": {
+        "name": "Newmanu",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "portervillecollege.edu": {
         "name": "Portervillecollege",
         "additional_names": [],
@@ -88677,13 +89412,6 @@
     },
     "ccm.edu": {
         "name": "Ccm",
-        "additional_names": [],
-        "is_group": false,
-        "verified": true,
-        "is_abused": false
-    },
-    "amrita.edu": {
-        "name": "Amrita",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -90418,6 +91146,13 @@
         "verified": true,
         "is_abused": false
     },
+    "unam.edu": {
+        "name": "Unam",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "ramapo.edu": {
         "name": "Ramapo",
         "additional_names": [],
@@ -90994,6 +91729,13 @@
     },
     "kumc.edu": {
         "name": "Kumc",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "pueblocc.edu": {
+        "name": "Pueblocc",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -94625,6 +95367,13 @@
         "verified": true,
         "is_abused": false
     },
+    "dmc.edu": {
+        "name": "Dmc",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "drury.edu": {
         "name": "Drury",
         "additional_names": [],
@@ -95803,6 +96552,13 @@
     },
     "umo.edu": {
         "name": "Umo",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "nocccd.edu": {
+        "name": "Nocccd",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -97544,6 +98300,13 @@
         "verified": true,
         "is_abused": false
     },
+    "ciat.edu": {
+        "name": "Ciat",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "mercyhurst.edu": {
         "name": "Mercyhurst",
         "additional_names": [],
@@ -98834,13 +99597,6 @@
     },
     "hscbklyn.edu": {
         "name": "Hscbklyn",
-        "additional_names": [],
-        "is_group": false,
-        "verified": true,
-        "is_abused": false
-    },
-    "cascadia.edu": {
-        "name": "Cascadia",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -102409,6 +103165,13 @@
         "verified": true,
         "is_abused": false
     },
+    "skagit.edu": {
+        "name": "Skagit",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "pasadena.edu": {
         "name": "Pasadena",
         "additional_names": [],
@@ -103410,6 +104173,13 @@
         "verified": true,
         "is_abused": false
     },
+    "yorktech.edu": {
+        "name": "Yorktech",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "parisjc.edu": {
         "name": "Parisjc",
         "additional_names": [],
@@ -103650,6 +104420,13 @@
     },
     "hartwick.edu": {
         "name": "Hartwick",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "stevenscollege.edu": {
+        "name": "Stevenscollege",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -104642,6 +105419,13 @@
         "verified": true,
         "is_abused": false
     },
+    "dixietech.edu": {
+        "name": "Dixietech",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "findlay.edu": {
         "name": "Findlay",
         "additional_names": [],
@@ -104665,6 +105449,13 @@
     },
     "commonwealthu.edu": {
         "name": "Commonwealthu",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "roanokechowan.edu": {
+        "name": "Roanokechowan",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -105293,6 +106084,13 @@
         "verified": true,
         "is_abused": false
     },
+    "student.carteret.edu": {
+        "name": "Student",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "afacademy.af.edu": {
         "name": "Afacademy",
         "additional_names": [],
@@ -105342,6 +106140,13 @@
         "verified": true,
         "is_abused": false
     },
+    "email.uagm.edu": {
+        "name": "Email",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "student.keiseruniversity.edu": {
         "name": "Student",
         "additional_names": [],
@@ -105378,6 +106183,13 @@
         "is_abused": false
     },
     "student.hartnell.edu": {
+        "name": "Student",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "student.faytechcc.edu": {
         "name": "Student",
         "additional_names": [],
         "is_group": false,
@@ -105643,6 +106455,13 @@
         "verified": true,
         "is_abused": false
     },
+    "student.laniertech.edu": {
+        "name": "Student",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "u.pacific.edu": {
         "name": "U",
         "additional_names": [],
@@ -105797,13 +106616,6 @@
         "verified": true,
         "is_abused": false
     },
-    "cb.amrita.edu": {
-        "name": "Cb",
-        "additional_names": [],
-        "is_group": false,
-        "verified": true,
-        "is_abused": false
-    },
     "mail.sjctni.edu": {
         "name": "Mail",
         "additional_names": [],
@@ -105862,6 +106674,13 @@
     },
     "students.columbusstate.edu": {
         "name": "Students",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "mymail.tc3.edu": {
+        "name": "Mymail",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -105953,6 +106772,13 @@
     },
     "issaquah.wednet.edu": {
         "name": "Issaquah",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "students.osd.wednet.edu": {
+        "name": "Students",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -106399,6 +107225,13 @@
         "verified": true,
         "is_abused": false
     },
+    "student.cccnj.edu": {
+        "name": "Student",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "acad.sunybroome.edu": {
         "name": "Acad",
         "additional_names": [],
@@ -106646,13 +107479,6 @@
     },
     "mycavehill.uwi.edu": {
         "name": "Mycavehill",
-        "additional_names": [],
-        "is_group": false,
-        "verified": true,
-        "is_abused": false
-    },
-    "alumni.sfbu.edu": {
-        "name": "Alumni",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -107470,13 +108296,6 @@
         "verified": true,
         "is_abused": false
     },
-    "ono.ac.il": {
-        "name": "Ono",
-        "additional_names": [],
-        "is_group": false,
-        "verified": true,
-        "is_abused": false
-    },
     "biu.ac.il": {
         "name": "Biu",
         "additional_names": [],
@@ -108002,6 +108821,13 @@
         "verified": true,
         "is_abused": false
     },
+    "sistc.edu.au": {
+        "name": "Sistc",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "melbournepolytechnic.edu.au": {
         "name": "Melbournepolytechnic",
         "additional_names": [],
@@ -108417,6 +109243,13 @@
     },
     "eq.edu.au": {
         "name": "Eq",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "sihe.edu.au": {
+        "name": "Sihe",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -109325,6 +110158,13 @@
         "verified": true,
         "is_abused": false
     },
+    "cggs.vic.edu.au": {
+        "name": "Cggs",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "dandenong-hs.vic.edu.au": {
         "name": "Dandenong-hs",
         "additional_names": [],
@@ -109362,6 +110202,13 @@
     },
     "gwsc.vic.edu.au": {
         "name": "Gwsc",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "caulfieldgs.vic.edu.au": {
+        "name": "Caulfieldgs",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -110608,13 +111455,6 @@
     },
     "univap.br": {
         "name": "Univap",
-        "additional_names": [],
-        "is_group": false,
-        "verified": true,
-        "is_abused": false
-    },
-    "uema.br": {
-        "name": "Uema",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -112293,13 +113133,6 @@
         "verified": true,
         "is_abused": false
     },
-    "athonedu.com.br": {
-        "name": "Athonedu",
-        "additional_names": [],
-        "is_group": false,
-        "verified": true,
-        "is_abused": false
-    },
     "colegionovo.com.br": {
         "name": "Colegionovo",
         "additional_names": [],
@@ -112727,6 +113560,13 @@
         "verified": true,
         "is_abused": false
     },
+    "rn.aluno.sesi.org.br": {
+        "name": "Rn",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "edu.isd.org.br": {
         "name": "Edu",
         "additional_names": [],
@@ -113037,6 +113877,13 @@
     },
     "ifba.edu.br": {
         "name": "Ifba",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "aphonsiano.edu.br": {
+        "name": "Aphonsiano",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -114743,6 +115590,13 @@
         "verified": true,
         "is_abused": false
     },
+    "uniunica.edu.br": {
+        "name": "Uniunica",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "unoesc.edu.br": {
         "name": "Unoesc",
         "additional_names": [],
@@ -114857,6 +115711,13 @@
     },
     "unp.edu.br": {
         "name": "Unp",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "ufrb.edu.br": {
+        "name": "Ufrb",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -116185,13 +117046,6 @@
         "verified": true,
         "is_abused": false
     },
-    "nrru.ac.th": {
-        "name": "Nrru",
-        "additional_names": [],
-        "is_group": false,
-        "verified": true,
-        "is_abused": false
-    },
     "varee.ac.th": {
         "name": "Varee",
         "additional_names": [],
@@ -116222,6 +117076,13 @@
     },
     "kvis.ac.th": {
         "name": "Kvis",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "kmutt.ac.th": {
+        "name": "Kmutt",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -117795,6 +118656,13 @@
         "verified": true,
         "is_abused": false
     },
+    "fpvirtualaragon.es": {
+        "name": "Fpvirtualaragon",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "url.es": {
         "name": "Url",
         "additional_names": [],
@@ -118593,13 +119461,6 @@
         "verified": true,
         "is_abused": false
     },
-    "murciaeduca.es": {
-        "name": "Murciaeduca",
-        "additional_names": [],
-        "is_group": false,
-        "verified": true,
-        "is_abused": false
-    },
     "upv.es": {
         "name": "Upv",
         "additional_names": [],
@@ -118931,13 +119792,6 @@
     },
     "profesor.esneasturias.es": {
         "name": "Profesor",
-        "additional_names": [],
-        "is_group": false,
-        "verified": true,
-        "is_abused": false
-    },
-    "alu.murciaeduca.es": {
-        "name": "Alu",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -122016,6 +122870,13 @@
         "verified": true,
         "is_abused": false
     },
+    "christs-hospital.org.uk": {
+        "name": "Christs-hospital",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "nsix.org.uk": {
         "name": "Nsix",
         "additional_names": [],
@@ -122522,6 +123383,13 @@
     },
     "williamperkin.org.uk": {
         "name": "Williamperkin",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "eastleake-ac.org.uk": {
+        "name": "Eastleake-ac",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -123320,6 +124188,13 @@
     },
     "brunel.ac.uk": {
         "name": "Brunel",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "lipa.ac.uk": {
+        "name": "Lipa",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -126524,13 +127399,6 @@
         "verified": true,
         "is_abused": false
     },
-    "upn.edu.pe": {
-        "name": "Upn",
-        "additional_names": [],
-        "is_group": false,
-        "verified": true,
-        "is_abused": false
-    },
     "iestpcab.edu.pe": {
         "name": "Iestpcab",
         "additional_names": [],
@@ -127007,13 +127875,6 @@
         "verified": true,
         "is_abused": false
     },
-    "continental.edu.pe": {
-        "name": "Continental",
-        "additional_names": [],
-        "is_group": false,
-        "verified": true,
-        "is_abused": false
-    },
     "unh.edu.pe": {
         "name": "Unh",
         "additional_names": [],
@@ -127114,13 +127975,6 @@
     },
     "up.edu.pe": {
         "name": "Up",
-        "additional_names": [],
-        "is_group": false,
-        "verified": true,
-        "is_abused": false
-    },
-    "udch.edu.pe": {
-        "name": "Udch",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -127562,13 +128416,6 @@
     },
     "ugm.cl": {
         "name": "Ugm",
-        "additional_names": [],
-        "is_group": false,
-        "verified": true,
-        "is_abused": false
-    },
-    "uvm.cl": {
-        "name": "Uvm",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -130563,6 +131410,13 @@
         "verified": true,
         "is_abused": false
     },
+    "independentcollege.edu.bd": {
+        "name": "Independentcollege",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "uttarauniversity.edu.bd": {
         "name": "Uttarauniversity",
         "additional_names": [],
@@ -131179,6 +132033,13 @@
         "verified": true,
         "is_abused": false
     },
+    "uttara.ac.bd": {
+        "name": "Uttara",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "bu.ac.bd": {
         "name": "Bu",
         "additional_names": [],
@@ -131314,6 +132175,13 @@
     },
     "ru.ac.bd": {
         "name": "Ru",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "iu.ac.bd": {
+        "name": "Iu",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -132644,6 +133512,13 @@
     },
     "fg-kassel.de": {
         "name": "Fg-kassel",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "marienau.de": {
+        "name": "Marienau",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -134385,6 +135260,13 @@
         "verified": true,
         "is_abused": false
     },
+    "tulla-gymnasium.de": {
+        "name": "Tulla-gymnasium",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "kvgschulen.de": {
         "name": "Kvgschulen",
         "additional_names": [],
@@ -136002,6 +136884,13 @@
         "verified": true,
         "is_abused": false
     },
+    "emg-huerth.de": {
+        "name": "Emg-huerth",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "tu-chemnitz.de": {
         "name": "Tu-chemnitz",
         "additional_names": [],
@@ -136424,6 +137313,13 @@
     },
     "uni-muenchen.de": {
         "name": "Uni-muenchen",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "gymhogau.de": {
+        "name": "Gymhogau",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -138186,6 +139082,13 @@
         "verified": true,
         "is_abused": false
     },
+    "dbg-gl.de": {
+        "name": "Dbg-gl",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "hbk-bs.de": {
         "name": "Hbk-bs",
         "additional_names": [],
@@ -139054,6 +139957,13 @@
         "verified": true,
         "is_abused": false
     },
+    "waldorfschule-wiesbaden.de": {
+        "name": "Waldorfschule-wiesbaden",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "bethel.de": {
         "name": "Bethel",
         "additional_names": [],
@@ -139651,6 +140561,13 @@
     },
     "bk-btg.schulen-gelsenkirchen.de": {
         "name": "Bk-btg",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "sus.hans-baldung-gymnasium.de": {
+        "name": "Sus",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -140965,6 +141882,13 @@
         "verified": true,
         "is_abused": false
     },
+    "stud.bn-bbz.de": {
+        "name": "Stud",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "sus.alfred-wegener-schule.de": {
         "name": "Sus",
         "additional_names": [],
@@ -142057,13 +142981,6 @@
         "verified": true,
         "is_abused": false
     },
-    "esmaior.pt": {
-        "name": "Esmaior",
-        "additional_names": [],
-        "is_group": false,
-        "verified": true,
-        "is_abused": false
-    },
     "inuaf-studia.pt": {
         "name": "Inuaf-studia",
         "additional_names": [],
@@ -142339,13 +143256,6 @@
     },
     "aebatalha.ccems.pt": {
         "name": "Aebatalha",
-        "additional_names": [],
-        "is_group": false,
-        "verified": true,
-        "is_abused": false
-    },
-    "alunos.epbjc.pt": {
-        "name": "Alunos",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -143919,6 +144829,13 @@
         "verified": true,
         "is_abused": false
     },
+    "cbtis226.edu.mx": {
+        "name": "Cbtis226",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "utd.edu.mx": {
         "name": "Utd",
         "additional_names": [],
@@ -143928,6 +144845,13 @@
     },
     "tesch.edu.mx": {
         "name": "Tesch",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "leonardeulerd.edu.mx": {
+        "name": "Leonardeulerd",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -145727,6 +146651,13 @@
     },
     "unikino.edu.mx": {
         "name": "Unikino",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "uqi.edu.mx": {
+        "name": "Uqi",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -147559,6 +148490,13 @@
         "verified": true,
         "is_abused": false
     },
+    "trebesin.cz": {
+        "name": "Trebesin",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "gyohavl.cz": {
         "name": "Gyohavl",
         "additional_names": [],
@@ -147769,6 +148707,20 @@
         "verified": true,
         "is_abused": false
     },
+    "uochb.cas.cz": {
+        "name": "Uochb",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "iic.cas.cz": {
+        "name": "Iic",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "math.cas.cz": {
         "name": "Math",
         "additional_names": [],
@@ -147890,13 +148842,6 @@
     },
     "tumonywa.edu.mm": {
         "name": "Tumonywa",
-        "additional_names": [],
-        "is_group": false,
-        "verified": true,
-        "is_abused": false
-    },
-    "strategyfirst.edu.mm": {
-        "name": "Strategyfirst",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -148357,13 +149302,6 @@
         "verified": true,
         "is_abused": false
     },
-    "modern-academy.edu.eg": {
-        "name": "Modern-academy",
-        "additional_names": [],
-        "is_group": false,
-        "verified": true,
-        "is_abused": false
-    },
     "iaet.edu.eg": {
         "name": "Iaet",
         "additional_names": [],
@@ -148632,13 +149570,6 @@
     },
     "futureuniversity.edu.eg": {
         "name": "Futureuniversity",
-        "additional_names": [],
-        "is_group": false,
-        "verified": true,
-        "is_abused": false
-    },
-    "dtu.edu.eg": {
-        "name": "Dtu",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -148959,6 +149890,13 @@
         "verified": true,
         "is_abused": false
     },
+    "monofeya2.moe.edu.eg": {
+        "name": "Monofeya2",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "stemobour.moe.edu.eg": {
         "name": "Stemobour",
         "additional_names": [],
@@ -149185,13 +150123,6 @@
     },
     "mnma.ac.tz": {
         "name": "Mnma",
-        "additional_names": [],
-        "is_group": false,
-        "verified": true,
-        "is_abused": false
-    },
-    "mustudent.ac.tz": {
-        "name": "Mustudent",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -151654,6 +152585,13 @@
         "verified": true,
         "is_abused": false
     },
+    "kebili.r-iset.tn": {
+        "name": "Kebili",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "kelibia.r-iset.tn": {
         "name": "Kelibia",
         "additional_names": [],
@@ -152123,6 +153061,13 @@
         "verified": true,
         "is_abused": false
     },
+    "esaa.dz": {
+        "name": "Esaa",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "cdta.dz": {
         "name": "Cdta",
         "additional_names": [],
@@ -152475,13 +153420,6 @@
     },
     "ito.dz": {
         "name": "Ito",
-        "additional_names": [],
-        "is_group": false,
-        "verified": true,
-        "is_abused": false
-    },
-    "univ-tlemcen.dz": {
-        "name": "Univ-tlemcen",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -154748,6 +155686,13 @@
         "verified": true,
         "is_abused": false
     },
+    "musikene.net": {
+        "name": "Musikene",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "fusdk12.net": {
         "name": "Fusdk12",
         "additional_names": [],
@@ -155714,13 +156659,6 @@
         "verified": true,
         "is_abused": false
     },
-    "manavrachna.net": {
-        "name": "Manavrachna",
-        "additional_names": [],
-        "is_group": false,
-        "verified": true,
-        "is_abused": false
-    },
     "iessanclemente.net": {
         "name": "Iessanclemente",
         "additional_names": [],
@@ -156344,6 +157282,13 @@
         "verified": true,
         "is_abused": false
     },
+    "dhltu.edu.gh": {
+        "name": "Dhltu",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "mhtia.edu.gh": {
         "name": "Mhtia",
         "additional_names": [],
@@ -156752,6 +157697,13 @@
     },
     "tipu.uz": {
         "name": "Tipu",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "acharya.uz": {
+        "name": "Acharya",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -157305,6 +158257,13 @@
     },
     "student.itpu.uz": {
         "name": "Student",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "acharya.ac.uz": {
+        "name": "Acharya",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -157914,6 +158873,13 @@
     },
     "elmarche.be": {
         "name": "Elmarche",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "enseignementbw.be": {
+        "name": "Enseignementbw",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -158635,6 +159601,13 @@
     },
     "ksdiest.be": {
         "name": "Ksdiest",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "campushast.be": {
+        "name": "Campushast",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -159384,6 +160357,13 @@
     },
     "lcc.lt": {
         "name": "Lcc",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "gimnazija.lt": {
+        "name": "Gimnazija",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -160593,6 +161573,13 @@
         "verified": true,
         "is_abused": false
     },
+    "nims.ac.jp": {
+        "name": "Nims",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "fwu.ac.jp": {
         "name": "Fwu",
         "additional_names": [],
@@ -160754,6 +161741,13 @@
         "verified": true,
         "is_abused": false
     },
+    "canacad.ac.jp": {
+        "name": "Canacad",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "tmu.ac.jp": {
         "name": "Tmu",
         "additional_names": [],
@@ -160763,6 +161757,13 @@
     },
     "osaka-u.ac.jp": {
         "name": "Osaka-u",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "shimade.ac.jp": {
+        "name": "Shimade",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -161134,6 +162135,13 @@
     },
     "asahikawa-u.ac.jp": {
         "name": "Asahikawa-u",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "chibatech.ac.jp": {
+        "name": "Chibatech",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -161986,6 +162994,13 @@
         "verified": true,
         "is_abused": false
     },
+    "otemon.ac.jp": {
+        "name": "Otemon",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "atomi.ac.jp": {
         "name": "Atomi",
         "additional_names": [],
@@ -162142,6 +163157,13 @@
     },
     "budo-u.ac.jp": {
         "name": "Budo-u",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "thers.ac.jp": {
+        "name": "Thers",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -162700,6 +163722,13 @@
         "verified": true,
         "is_abused": false
     },
+    "belle.shiga-med.ac.jp": {
+        "name": "Belle",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "stn.nitech.ac.jp": {
         "name": "Stn",
         "additional_names": [],
@@ -162744,6 +163773,13 @@
     },
     "isc.senshu-u.ac.jp": {
         "name": "Isc",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "s.okayama-u.ac.jp": {
+        "name": "S",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -163010,6 +164046,13 @@
     },
     "gympos.sk": {
         "name": "Gympos",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "czsjanakrstitela.sk": {
+        "name": "Czsjanakrstitela",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -163904,6 +164947,13 @@
         "verified": true,
         "is_abused": false
     },
+    "delsu.edu.ng": {
+        "name": "Delsu",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "dui.edu.ng": {
         "name": "Dui",
         "additional_names": [],
@@ -164144,6 +165194,13 @@
     },
     "nutm.edu.ng": {
         "name": "Nutm",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "pums.edu.ng": {
+        "name": "Pums",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -165640,6 +166697,13 @@
         "verified": true,
         "is_abused": false
     },
+    "um6ss.ma": {
+        "name": "Um6ss",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "univcasa.ma": {
         "name": "Univcasa",
         "additional_names": [],
@@ -167040,6 +168104,13 @@
         "verified": true,
         "is_abused": false
     },
+    "msg.fy.edu.tw": {
+        "name": "Msg",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "live.fy.edu.tw": {
         "name": "Live",
         "additional_names": [],
@@ -168071,6 +169142,13 @@
     },
     "daystar.ac.ke": {
         "name": "Daystar",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "karumotti.ac.ke": {
+        "name": "Karumotti",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -175629,6 +176707,13 @@
         "verified": true,
         "is_abused": false
     },
+    "ddsb.ca": {
+        "name": "Ddsb",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "ustpaul.ca": {
         "name": "Ustpaul",
         "additional_names": [],
@@ -179654,6 +180739,13 @@
         "verified": true,
         "is_abused": false
     },
+    "tps.edu.sa": {
+        "name": "Tps",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
     "bu.edu.sa": {
         "name": "Bu",
         "additional_names": [],
@@ -179789,6 +180881,13 @@
     },
     "alkawthar.edu.sa": {
         "name": "Alkawthar",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "effatuniversity.edu.sa": {
+        "name": "Effatuniversity",
         "additional_names": [],
         "is_group": false,
         "verified": true,
@@ -180111,6 +181210,13 @@
     },
     "ibnsina.edu.sa": {
         "name": "Ibnsina",
+        "additional_names": [],
+        "is_group": false,
+        "verified": true,
+        "is_abused": false
+    },
+    "coeia.edu.sa": {
+        "name": "Coeia",
         "additional_names": [],
         "is_group": false,
         "verified": true,
