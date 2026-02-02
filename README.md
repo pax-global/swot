@@ -4,7 +4,7 @@ A comprehensive JSON database of **25k+** educational institution domains for va
 
 ## 📊 Overview
 
-This repository contains a curated list of educational email domains from universities, colleges, and schools across the globe. Use this to verify if an email address belongs to an educational institution for academic discounts, student verification, educational software licensing, and more.
+This repository contains a curated list of educational email domains from universities, colleges, and schools across the globe. Use this to verify if an email address belongs to an educational institution for academic discounts, student verification, educational software licensing, and more. We use this data across all apps within [pax.global](https://pax.global) ecosystem.
 
 ## 🗂️ What's Inside
 
