@@ -14,7 +14,7 @@ This repository contains a curated list of educational email domains from univer
 
 | Metric | Count |
 |--------|-------|
-| 🏫 **Total Domains** | **26,908** |
+| 🏫 **Total Domains** | **26,945** |
 | 🚫 **Flagged/Abused** | **100** |
 | 👥 **Group Domains** | **172** |
 | 🇷🇴 **Romania (.ro)** | **221** |
@@ -23,16 +23,16 @@ This repository contains a curated list of educational email domains from univer
 
 | TLD | Domains |
 |-----|---------|
-| `.edu` | **2,766** |
-| `.org` | **1,617** |
-| `.de` | **1,417** |
-| `.in` | **1,133** |
-| `.com` | **1,075** |
-| `.uk` | **972** |
-| `.br` | **948** |
-| `.id` | **716** |
+| `.edu` | **2,769** |
+| `.org` | **1,616** |
+| `.de` | **1,420** |
+| `.in` | **1,145** |
+| `.com` | **1,076** |
+| `.uk` | **973** |
+| `.br` | **950** |
+| `.id` | **718** |
 | `.ru` | **692** |
-| `.fr` | **688** |
+| `.fr` | **691** |
 
 ## 📋 Domain Structure
 
